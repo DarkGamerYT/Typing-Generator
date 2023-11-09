@@ -1,0 +1,5 @@
+/**
+ * @beta
+ * Contains methods relating to the active camera for the
+ * specified player.
+ */

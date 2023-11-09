@@ -1,0 +1,5 @@
+/**
+ * @beta
+ * Contains additional information about an entity that was
+ * hit.
+ */

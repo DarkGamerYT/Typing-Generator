@@ -1,0 +1,7 @@
+/**
+ * @beta
+ * @remarks
+ * This event fires when a chargeable item is released from
+ * charging.
+ *
+ */

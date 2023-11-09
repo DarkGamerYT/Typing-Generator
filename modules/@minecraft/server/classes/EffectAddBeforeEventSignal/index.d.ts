@@ -1,0 +1,5 @@
+/**
+ * @beta
+ * Manages callbacks that are connected to when an effect is
+ * added to an entity.
+ */

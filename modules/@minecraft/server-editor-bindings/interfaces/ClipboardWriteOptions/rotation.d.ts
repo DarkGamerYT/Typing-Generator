@@ -1,0 +1,6 @@
+/**
+ * @remarks
+ * An enum representing the rotation around the Y-Axis which
+ * should be applied while the clipboard item is being written
+ *
+ */

@@ -1,0 +1,7 @@
+/**
+ * @beta
+ * @remarks
+ * Damage caused by an indirect source. For example, setting a
+ * mob's health to 0 in a behavior pack.
+ *
+ */
