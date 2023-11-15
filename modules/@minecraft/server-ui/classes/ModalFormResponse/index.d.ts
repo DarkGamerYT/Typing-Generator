@@ -1,0 +1,3 @@
+/**
+ * Returns data about player responses to a modal form.
+ */
