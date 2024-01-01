@@ -1,0 +1,1 @@
+/** @remarks Sets the time to sunset, which is time of the day 12,000 (or the equivalent of 6pm) in Minecraft. */

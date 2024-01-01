@@ -1,7 +1,5 @@
 /**
- * @remarks
- * Gets the first block that intersects with a vector emanating
- * from a location.
+ * @remarks Gets the first block that intersects with a vector emanating from a location.
  *
  * @param location
  * Location from where to initiate the ray check.

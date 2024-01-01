@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Dimension that this coordinate is associated with.
- *
- */
+/** @remarks Dimension that this coordinate is associated with. */

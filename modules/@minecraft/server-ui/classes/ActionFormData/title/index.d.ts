@@ -1,5 +1,1 @@
-/**
- * @remarks
- * This builder method sets the title for the modal dialog.
- *
- */
+/** @remarks This builder method sets the title for the modal dialog. */

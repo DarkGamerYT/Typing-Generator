@@ -1,8 +1,7 @@
 /**
  * @remarks
- * Returns a boolean whether a specified permutation matches
- * this permutation. If states is not specified, matches checks
- * against the set of types more broadly.
+ * Returns a boolean whether a specified permutation matches this permutation.
+ * If states is not specified, matches checks against the set of types more broadly.
  *
  * @param blockName
  * An optional set of states to compare against.

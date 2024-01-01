@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Whether or not the block has redstone power.
- *
- */
+/** @remarks Whether or not the block has redstone power. */

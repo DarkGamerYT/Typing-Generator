@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Y coordinate of the block.
- *
- */
+/** @remarks Y coordinate of the block. */

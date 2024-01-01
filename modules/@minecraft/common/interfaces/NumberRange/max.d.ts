@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Maximum value within a range.
- *
- */
+/** @remarks Maximum value within a range. */

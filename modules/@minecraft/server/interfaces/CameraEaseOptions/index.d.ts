@@ -1,4 +1,1 @@
-/**
- * @beta
- * Contains options associated with a camera ease operation.
- */
+/** Contains options associated with a camera ease operation. */

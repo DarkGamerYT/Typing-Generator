@@ -1,7 +1,5 @@
 /**
- * @remarks
- * Removes a callback from being called when an explosion
- * occurs, as it impacts individual blocks.
+ * @remarks Removes a callback from being called when an explosion occurs, as it impacts individual blocks.
  *
  * This function can't be called in read-only mode.
  *

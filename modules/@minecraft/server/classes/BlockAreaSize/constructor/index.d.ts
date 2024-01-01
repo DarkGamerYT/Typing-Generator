@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Creates a new BlockAreaSize object.
- *
- */
+/** @remarks Creates a new BlockAreaSize object. */

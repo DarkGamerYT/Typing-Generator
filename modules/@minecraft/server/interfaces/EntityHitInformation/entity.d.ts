@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Entity that was hit.
- *
- */
+/** @remarks Entity that was hit. */

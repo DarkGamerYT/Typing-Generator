@@ -1,4 +1,1 @@
-/**
- * @beta
- * Contains information for entity raycast hit results.
- */
+/** Contains information for entity raycast hit results. */

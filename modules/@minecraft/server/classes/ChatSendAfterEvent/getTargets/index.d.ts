@@ -1,7 +1,5 @@
 /**
- * @remarks
- * List of players that will receive this message.
+ * @remarks List of players that will receive this message.
  *
- * @returns
- * List of player objects.
+ * @returns List of player objects.
  */

@@ -1,5 +1,1 @@
-/**
- * @beta
- * Contains additional options for registering a script event
- * event callback.
- */
+/** Contains additional options for registering a script event event callback. */

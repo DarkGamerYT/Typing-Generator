@@ -1,7 +1,5 @@
 /**
- * @beta
- * @remarks
- * Returns the {@link Block} north this block (negative in the Z direction).
+ * @remarks Returns the {@link Block} north this block (negative in the Z direction).
  *
  * @param steps
  * Number of steps north to step before returning.

@@ -14,8 +14,8 @@
  * form.button2("Button 2");
  * 
  * form.show(player).then((response) => {
- *  console.warn(`Canceled: ${response.canceled}`);
- *  console.warn(`Selection: ${response.selection}`);
+ *     console.warn(`Canceled: ${response.canceled}`);
+ *     console.warn(`Selection: ${response.selection}`);
  * });
  * ```
  */

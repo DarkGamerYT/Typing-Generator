@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Underlying cause of the damage.
- *
- */
+/** @remarks Underlying cause of the damage. */

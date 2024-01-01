@@ -1,11 +1,8 @@
 /**
  * @beta
- * @remarks
- * Returns the net redstone power of this block.
+ * @remarks Returns the net redstone power of this block.
  *
- * @returns
- * Returns undefined if redstone power is not applicable to
- * this block.
+ * @returns Returns undefined if redstone power is not applicable to this block.
  * @throws This function can throw errors.
  *
  * {@link LocationInUnloadedChunkError}

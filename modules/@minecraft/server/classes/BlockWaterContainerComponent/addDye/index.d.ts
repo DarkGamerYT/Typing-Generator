@@ -1,6 +1,5 @@
 /**
- * @remarks
- * Adds an item and colors the water based on a dye item type.
+ * @remarks Adds an item and colors the water based on a dye item type.
  *
  * This function can't be called in read-only mode.
  *

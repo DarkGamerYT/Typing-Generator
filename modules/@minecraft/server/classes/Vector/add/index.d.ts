@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Returns the addition of these vectors.
- *
- */
+/** @remarks Returns the addition of these vectors. */

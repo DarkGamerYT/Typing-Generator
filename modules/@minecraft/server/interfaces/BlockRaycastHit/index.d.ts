@@ -1,4 +1,1 @@
-/**
- * @beta
- * Contains information for block raycast hit results.
- */
+/** Contains information for block raycast hit results. */

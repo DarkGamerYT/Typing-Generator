@@ -1,6 +1,5 @@
 /**
- * Used to create a fully customizable pop-up form for a
- * player.
+ * Used to create a fully customizable pop-up form for a player.
  * 
  * @example
  * ```javascript
@@ -16,8 +15,8 @@
  * form.toggle("Toggle", true);
  * 
  * form.show(player).then((response) => {
- *  console.warn(`Canceled: ${response.canceled}`);
- *  console.warn("Form Values:", response.formValues);
+ *     console.warn(`Canceled: ${response.canceled}`);
+ *     console.warn("Form Values:", response.formValues);
  * });
  * ```
  */

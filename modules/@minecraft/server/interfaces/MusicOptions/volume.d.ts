@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Relative volume level of the music.
- *
- */
+/** @remarks Relative volume level of the music. */

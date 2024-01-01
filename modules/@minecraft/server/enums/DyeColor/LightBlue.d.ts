@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Light blue dye color.
- *
+ * @remarks Light blue dye color.
  */

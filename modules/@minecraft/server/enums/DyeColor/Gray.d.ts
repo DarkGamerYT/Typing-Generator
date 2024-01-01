@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Gray dye color.
- *
+ * @remarks Gray dye color.
  */

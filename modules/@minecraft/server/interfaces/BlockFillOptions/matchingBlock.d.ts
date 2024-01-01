@@ -1,6 +1,1 @@
-/**
- * @remarks
- * When specified, the fill operation will only apply to blocks
- * that match this description.
- *
- */
+/** @remarks When specified, the fill operation will only apply to blocks that match this description. */

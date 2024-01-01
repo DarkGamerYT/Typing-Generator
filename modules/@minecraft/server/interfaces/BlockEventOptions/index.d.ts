@@ -1,4 +1,1 @@
-/**
- * @beta
- * Contains optional parameters for registering a block event.
- */
+/** Contains optional parameters for registering a block event. */

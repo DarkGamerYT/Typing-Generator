@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Identifier of the block property.
- *
- */
+/** @remarks Identifier of the block property. */

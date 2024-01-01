@@ -1,4 +1,1 @@
-/**
- * @beta
- * Represents a game mode for the current world experience.
- */
+/** Represents a game mode for the current world experience. */

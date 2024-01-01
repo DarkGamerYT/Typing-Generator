@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * Block instance that this component pertains to.
- *
- */
+/** @remarks Block instance that this component pertains to. */

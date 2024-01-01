@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * The phase following the Waning Gibbous.
- *
- */
+/** @remarks The phase following the Waning Gibbous. */

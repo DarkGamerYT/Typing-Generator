@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Orange dye color.
- *
+ * @remarks Orange dye color.
  */

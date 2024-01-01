@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Optional subtitle text.
- *
- */
+/** @remarks Optional subtitle text. */

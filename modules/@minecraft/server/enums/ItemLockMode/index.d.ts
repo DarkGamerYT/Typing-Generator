@@ -1,4 +1,1 @@
-/**
- * @beta
- * Describes how an an item can be moved within a container.
- */
+/** Describes how an an item can be moved within a container. */

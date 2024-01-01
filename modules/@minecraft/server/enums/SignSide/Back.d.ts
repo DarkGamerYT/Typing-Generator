@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * The back of the sign.
- *
+ * @remarks The back of the sign.
  */

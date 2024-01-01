@@ -1,6 +1,5 @@
 /**
- * @remarks
- * Creates a new instance of an abstract vector.
+ * @remarks Creates a new instance of an abstract vector.
  *
  * @param x
  * X component of the vector.

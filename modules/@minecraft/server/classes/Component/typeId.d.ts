@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Identifier of the component.
- *
- */
+/** @remarks Identifier of the component. */

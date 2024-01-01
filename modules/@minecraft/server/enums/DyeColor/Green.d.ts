@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Green dye color.
- *
+ * @remarks Green dye color.
  */

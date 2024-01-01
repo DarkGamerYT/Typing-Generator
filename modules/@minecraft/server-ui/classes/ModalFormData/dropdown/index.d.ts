@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Adds a dropdown with choices to the form.
- *
- */
+/** @remarks Adds a dropdown with choices to the form. */

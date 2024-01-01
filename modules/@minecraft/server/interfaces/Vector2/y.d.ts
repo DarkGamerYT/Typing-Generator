@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Y component of the two-dimensional vector.
- *
- */
+/** @remarks Y component of the two-dimensional vector. */

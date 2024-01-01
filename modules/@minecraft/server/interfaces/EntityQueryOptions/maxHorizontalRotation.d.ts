@@ -1,6 +1,1 @@
-/**
- * @remarks
- * If specified, will only include entities that have at most
- * this horizontal rotation.
- *
- */
+/** @remarks If specified, will only include entities that have at most this horizontal rotation. */

@@ -1,7 +1,5 @@
 /**
- * @beta
- * @remarks
- * Returns the {@link Block} south this block (positive in the Z direction).
+ * @remarks Returns the {@link Block} south this block (positive in the Z direction).
  *
  * @param steps
  * Number of steps south to step before returning.

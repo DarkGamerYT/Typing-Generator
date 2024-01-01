@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Magenta dye color.
- *
+ * @remarks Magenta dye color.
  */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Includes entities that match all of the specified tags.
- *
- */
+/** @remarks Includes entities that match all of the specified tags. */

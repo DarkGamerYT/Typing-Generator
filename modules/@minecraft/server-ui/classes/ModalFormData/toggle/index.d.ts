@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Adds a toggle checkbox button to the form.
- *
- */
+/** @remarks Adds a toggle checkbox button to the form. */

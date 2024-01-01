@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Cyan dye color.
- *
+ * @remarks Cyan dye color.
  */

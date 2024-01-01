@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Returns the dimension that the block is within.
- *
- */
+/** @remarks Returns the dimension that the block is within. */

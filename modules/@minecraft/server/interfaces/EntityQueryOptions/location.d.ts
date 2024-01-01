@@ -1,7 +1,1 @@
-/**
- * @remarks
- * Adds a seed location to the query that is used in
- * conjunction with closest, farthest, limit, volume, and
- * distance properties.
- *
- */
+/** @remarks Adds a seed location to the query that is used in conjunction with closest, farthest, limit, volume, and distance properties. */

@@ -1,8 +1,6 @@
 /**
  * @beta
- * @remarks
- * Returns a derived BlockPermutation with a specific property
- * set.
+ * @remarks Returns a derived BlockPermutation with a specific property set.
  *
  * @param name
  * Identifier of the block property.

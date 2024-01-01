@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Body content of the HTTP response.
- *
- */
+/** @remarks Body content of the HTTP response. */

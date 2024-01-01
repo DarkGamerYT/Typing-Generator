@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Block that was hit.
- *
- */
+/** @remarks Block that was hit. */

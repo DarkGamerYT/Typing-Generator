@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * This scoreboard participant is tied to an entity.
- *
- */
+/** @remarks This scoreboard participant is tied to an entity. */

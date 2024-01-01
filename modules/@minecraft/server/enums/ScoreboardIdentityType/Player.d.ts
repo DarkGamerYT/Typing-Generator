@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * This scoreboard participant is tied to a player.
- *
- */
+/** @remarks This scoreboard participant is tied to a player. */

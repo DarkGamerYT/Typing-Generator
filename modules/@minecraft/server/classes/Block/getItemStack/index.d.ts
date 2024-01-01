@@ -1,15 +1,12 @@
 /**
  * @beta
  * @remarks
- * Creates a prototype item stack based on this block that can
- * be used with Container/ContainerSlot APIs.
+ * Creates a prototype item stack based on this block that can be used with Container/ContainerSlot APIs.
  *
  * @param amount
- * Number of instances of this block to place in the item
- * stack.
+ * Number of instances of this block to place in the itemstack.
  * @param withData
- * Whether additional data facets of the item stack are
- * included.
+ * Whether additional data facets of the itemstack are included.
  * @returns
  * An itemStack with the specified amount of items and data.
  * Returns undefined if block type is incompatible.

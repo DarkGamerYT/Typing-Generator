@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Corresponding object is loaded.
- *
+ * @remarks Corresponding object is loaded.
  */

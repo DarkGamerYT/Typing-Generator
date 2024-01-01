@@ -1,4 +1,1 @@
-/**
- * @beta
- * Contains a description of a vector.
- */
+/** Contains a description of a vector. */

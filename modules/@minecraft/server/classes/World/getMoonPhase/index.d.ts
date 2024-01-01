@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * Returns the MoonPhase for the current time.
- *
- */
+/** @remarks Returns the MoonPhase for the current time. */

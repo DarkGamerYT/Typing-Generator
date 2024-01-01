@@ -1,8 +1,7 @@
 /**
  * @remarks
- * Creates and shows this modal popup form. Returns
- * asynchronously when the player confirms or cancels the
- * dialog.
+ * Creates and shows this modal popup form.
+ * Returns asynchronously when the player confirms or cancels the dialog.
  *
  * This function can't be called in read-only mode.
  *

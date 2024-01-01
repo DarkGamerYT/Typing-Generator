@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Entity that the event triggered on.
- *
- */
+/** @remarks Entity that the event triggered on. */

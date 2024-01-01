@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * The {@link BlockType} that the permutation has.
- *
+ * @remarks The {@link BlockType} that the permutation has.
  */

@@ -1,4 +1,1 @@
-/**
- * @beta
- * Used to initiate a full-screen color fade.
- */
+/** Used to initiate a full-screen color fade. */

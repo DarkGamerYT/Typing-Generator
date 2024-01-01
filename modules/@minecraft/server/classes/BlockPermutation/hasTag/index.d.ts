@@ -1,10 +1,8 @@
 /**
  * @beta
- * @remarks
- * Checks to see if the permutation has a specific tag.
+ * @remarks Checks to see if the permutation has a specific tag.
  *
- * @returns
- * Returns `true` if the permutation has the tag, else `false`.
+ * @returns Returns `true` if the permutation has the tag, else `false`.
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

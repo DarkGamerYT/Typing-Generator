@@ -1,4 +1,1 @@
-/**
- * @beta
- * Contains additional options for an entity raycast operation.
- */
+/** Contains additional options for an entity raycast operation. */

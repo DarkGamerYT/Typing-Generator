@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Returns this vector as a normalized vector.
- *
- */
+/** @remarks Returns this vector as a normalized vector. */

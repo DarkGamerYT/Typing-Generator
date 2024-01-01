@@ -1,8 +1,7 @@
 /**
- * @beta
  * @remarks
- * Queues an additional music track for players. If a track is
- * not playing, a music track will play.
+ * Queues an additional music track for players.
+ * If a track is not playing, a music track will play.
  *
  * This function can't be called in read-only mode.
  *
@@ -13,6 +12,7 @@
  * @throws
  * An error will be thrown if volume is less than 0.0.
  * An error will be thrown if fade is less than 0.0.
+ * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

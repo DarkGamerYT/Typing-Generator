@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Z component of this vector.
- *
- */
+/** @remarks Z component of this vector. */

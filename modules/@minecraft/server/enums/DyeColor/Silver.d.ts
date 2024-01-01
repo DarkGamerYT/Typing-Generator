@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Silver dye color.
- *
+ * @remarks Silver dye color.
  */

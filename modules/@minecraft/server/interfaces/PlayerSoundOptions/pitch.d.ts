@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Optional pitch of the sound.
- *
- */
+/** @remarks Optional pitch of the sound. */

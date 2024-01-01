@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * The item cannot be dropped or crafted with.
- *
- */
+/** @remarks The item cannot be dropped or crafted with. */

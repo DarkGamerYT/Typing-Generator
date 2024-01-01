@@ -1,22 +1,20 @@
 /**
- * @beta
- * @remarks
- * Sends a message to all players.
+ * @remarks Sends a message to all players.
  *
  * @param message
  * The message to be displayed.
  * @throws
- * This method can throw if the provided {@link RawMessage} is
- * in an invalid format. For example, if an empty `name` string
- * is provided to `score`.
+ * This method can throw if the provided {@link RawMessage} is in an invalid format.
+ * For example, if an empty `name` string is provided to `score`.
+ * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";
  *
  * // Displays "Apple or Coal"
  * let rawMessage = {
- *   translate: "accessibility.list.or.two",
- *   with: { rawtext: [{ translate: "item.apple.name" }, { translate: "item.coal.name" }] },
+ *     translate: "accessibility.list.or.two",
+ *     with: { rawtext: [{ translate: "item.apple.name" }, { translate: "item.coal.name" }] },
  * };
  *
  * world.sendMessage(rawMessage);

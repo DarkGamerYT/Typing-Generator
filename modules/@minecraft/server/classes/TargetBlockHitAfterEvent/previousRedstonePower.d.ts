@@ -1,5 +1,1 @@
-/**
- * @remarks
- * The redstone power before the block is hit.
- *
- */
+/** @remarks The redstone power before the block is hit. */

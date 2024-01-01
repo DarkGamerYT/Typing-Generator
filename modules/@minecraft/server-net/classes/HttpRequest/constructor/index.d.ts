@@ -7,8 +7,8 @@
  * request.setBody("hello world!");
  * request.addHeader("hello", "world");
  * request.setHeaders([
- *  new HttpHeader("test", "123"),
- *  new HttpHeader("mcheader", "hello"),
+ *     new HttpHeader("test", "123"),
+ *     new HttpHeader("mcheader", "hello"),
  * ]);
  * ```
  */

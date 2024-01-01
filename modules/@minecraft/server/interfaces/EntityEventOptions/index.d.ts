@@ -1,5 +1,1 @@
-/**
- * @beta
- * Contains optional parameters for registering an entity
- * event.
- */
+/** Contains optional parameters for registering an entity event. */

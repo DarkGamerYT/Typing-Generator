@@ -1,4 +1,1 @@
-/**
- * @beta
- * Contains additional options for teleporting an entity.
- */
+/** Contains additional options for teleporting an entity. */

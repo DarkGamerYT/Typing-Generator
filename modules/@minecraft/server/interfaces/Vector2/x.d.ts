@@ -1,5 +1,1 @@
-/**
- * @remarks
- * X component of the two-dimensional vector.
- *
- */
+/** @remarks X component of the two-dimensional vector. */

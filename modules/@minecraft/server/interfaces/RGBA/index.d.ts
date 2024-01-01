@@ -1,4 +1,1 @@
-/**
- * @beta
- * Represents a fully customizable color within Minecraft.
- */
+/** Represents a fully customizable color within Minecraft. */

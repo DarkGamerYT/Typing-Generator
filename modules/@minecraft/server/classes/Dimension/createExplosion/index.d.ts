@@ -1,7 +1,6 @@
 /**
  * @beta
- * @remarks
- * Creates an explosion at the specified location.
+ * @remarks Creates an explosion at the specified location.
  *
  * This function can't be called in read-only mode.
  *

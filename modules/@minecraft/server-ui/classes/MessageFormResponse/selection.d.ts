@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Returns the index of the button that was pushed.
- *
- */
+/** @remarks Returns the index of the button that was pushed. */

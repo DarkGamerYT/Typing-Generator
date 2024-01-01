@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * Specifies a clear weather condition.
- *
- */
+/** @remarks Specifies a clear weather condition. */

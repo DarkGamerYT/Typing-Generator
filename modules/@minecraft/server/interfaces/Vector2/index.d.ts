@@ -1,4 +1,1 @@
-/**
- * @beta
- * Represents a two-directional vector.
- */
+/** Represents a two-directional vector. */

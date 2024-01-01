@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * The darkest moon phase.
- *
- */
+/** @remarks The darkest moon phase. */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Rotation of the entity after teleport.
- *
- */
+/** @remarks Rotation of the entity after teleport. */

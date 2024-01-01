@@ -1,14 +1,10 @@
 /**
  * @beta
- * @remarks
- * Checks to see if the permutation of this block has a
- * specific tag.
+ * @remarks Checks to see if the permutation of this block has a specific tag.
  *
  * @param tag
  * Tag to check for.
- * @returns
- * Returns `true` if the permutation of this block has the tag,
- * else `false`.
+ * @returns Returns `true` if the permutation of this block has the tag, else `false`.
  * @throws This function can throw errors.
  *
  * {@link LocationInUnloadedChunkError}

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Z size (south to north) of this block area size.
- *
- */
+/** @remarks Z size (south to north) of this block area size. */

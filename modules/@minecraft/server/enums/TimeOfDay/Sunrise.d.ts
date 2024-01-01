@@ -1,0 +1,1 @@
+/** @remarks Sets the time to sunrise, which is time of the day 23,000 (or the equivalent of 5am) in Minecraft. */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * X component of this dimension-location.
- *
- */
+/** @remarks X component of this dimension-location. */

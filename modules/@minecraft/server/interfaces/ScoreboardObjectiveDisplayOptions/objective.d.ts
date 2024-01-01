@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Objective to be displayed.
- *
- */
+/** @remarks Objective to be displayed. */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * The strength of the effect.
- *
- */
+/** @remarks The strength of the effect. */

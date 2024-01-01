@@ -1,4 +1,1 @@
-/**
- * @beta
- * Base type for components associated with blocks.
- */
+/** Base type for components associated with blocks. */

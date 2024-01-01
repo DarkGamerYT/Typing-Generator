@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Description of the block that has exploded.
- *
- */
+/** @remarks Description of the block that has exploded. */

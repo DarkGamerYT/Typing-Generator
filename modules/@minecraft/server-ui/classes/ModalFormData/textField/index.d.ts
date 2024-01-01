@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Adds a textbox to the form.
- *
- */
+/** @remarks Adds a textbox to the form. */

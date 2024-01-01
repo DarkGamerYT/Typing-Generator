@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Includes entities with the specified name.
- *
- */
+/** @remarks Includes entities with the specified name. */

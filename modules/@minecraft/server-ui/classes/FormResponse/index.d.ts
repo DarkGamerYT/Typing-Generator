@@ -1,3 +1,1 @@
-/**
- * Base type for a form response.
- */
+/** Base type for a form response. */

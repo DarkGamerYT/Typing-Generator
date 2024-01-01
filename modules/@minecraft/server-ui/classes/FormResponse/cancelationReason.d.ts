@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Contains additional details as to why a form was canceled.
- *
- */
+/** @remarks Contains additional details as to why a form was canceled. */

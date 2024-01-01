@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Cause enumeration of damage.
- *
- */
+/** @remarks Cause enumeration of damage. */

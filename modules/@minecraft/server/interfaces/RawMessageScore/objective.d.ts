@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Name of the score value to match.
- *
- */
+/** @remarks Name of the score value to match. */

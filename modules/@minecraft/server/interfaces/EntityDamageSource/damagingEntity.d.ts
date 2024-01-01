@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Optional entity that caused the damage.
- *
- */
+/** @remarks Optional entity that caused the damage. */

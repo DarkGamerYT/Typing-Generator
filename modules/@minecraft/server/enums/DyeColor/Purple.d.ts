@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Purple dye color.
- *
+ * @remarks Purple dye color.
  */

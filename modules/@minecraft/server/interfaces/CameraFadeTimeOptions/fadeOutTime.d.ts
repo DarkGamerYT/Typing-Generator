@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Time, in seconds, for a fade-out.
- *
- */
+/** @remarks Time, in seconds, for a fade-out. */

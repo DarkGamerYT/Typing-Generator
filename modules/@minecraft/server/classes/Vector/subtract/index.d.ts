@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Returns the subtraction of these vectors.
- *
- */
+/** @remarks Returns the subtraction of these vectors. */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Returns the distance between two vectors.
- *
- */
+/** @remarks Returns the distance between two vectors. */

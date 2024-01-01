@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Optional entity that fired the projectile.
- *
- */
+/** @remarks Optional entity that fired the projectile. */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Returns the length of this vector.
- *
- */
+/** @remarks Returns the length of this vector. */

@@ -1,6 +1,5 @@
 /**
- * Builds a simple player form with buttons that let the player
- * take action.
+ * Builds a simple player form with buttons that let the player take action.
  * 
  * @example
  * ```javascript
@@ -15,8 +14,8 @@
  * form.button("Button 2", "textures/items/diamond_sword");
  * 
  * form.show(player).then((response) => {
- *  console.warn(`Canceled: ${response.canceled}`);
- *  console.warn(`Selection: ${response.selection}`);
+ *     console.warn(`Canceled: ${response.canceled}`);
+ *     console.warn(`Selection: ${response.selection}`);
  * });
  * ```
  */

@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * The phase following the Full Moon.
- *
- */
+/** @remarks The phase following the Full Moon. */

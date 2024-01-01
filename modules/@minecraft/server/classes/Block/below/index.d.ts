@@ -1,7 +1,5 @@
 /**
- * @beta
- * @remarks
- * Returns the {@link Block} below this block (negative in the Y direction).
+ * @remarks Returns the {@link Block} below this block (negative in the Y direction).
  *
  * @param steps
  * Number of steps below to step before returning.

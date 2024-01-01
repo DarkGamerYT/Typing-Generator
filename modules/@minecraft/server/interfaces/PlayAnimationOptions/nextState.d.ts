@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Specifies the state to transition to.
- *
- */
+/** @remarks Specifies the state to transition to. */

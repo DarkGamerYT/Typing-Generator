@@ -1,6 +1,5 @@
 /**
- * @remarks
- * Sets the current active camera for the specified player.
+ * @remarks Sets the current active camera for the specified player.
  *
  * This function can't be called in read-only mode.
  *
@@ -16,21 +15,21 @@
  * const player = world.getAllPlayers()[0];
  * 
  * system.runInterval(() => {
- *  player.camera.setCamera("minecraft:free", {
- *      easeOptions: {
- *          easeTime: 0.75,
- *          easeType: EasingType.Linear
- *      },
- *      location: {
- *          x: player.location.x - 4,
- *          y: player.location.y + 8,
- *          z: player.location.z - 4
- *      },
- *      rotation: {
- *          x: 60,
- *          y: -135
- *      }
- *  });
+ *     player.camera.setCamera("minecraft:free", {
+ *         easeOptions: {
+ *             easeTime: 0.75,
+ *             easeType: EasingType.Linear
+ *         },
+ *         location: {
+ *             x: player.location.x - 4,
+ *             y: player.location.y + 8,
+ *             z: player.location.z - 4
+ *         },
+ *         rotation: {
+ *             x: 60,
+ *             y: -135
+ *         }
+ *     });
  * });
  * ```
  */

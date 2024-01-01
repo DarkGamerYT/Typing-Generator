@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Minimum value within a range.
- *
- */
+/** @remarks Minimum value within a range. */

@@ -1,14 +1,11 @@
 /**
- * @remarks
- * Performs an HTTP request.
+ * @remarks Performs an HTTP request.
  *
  * This function can't be called in read-only mode.
  *
  * @param config
- * Contains an HTTP Request object with configuration data on
- * the HTTP request.
- * @returns
- * An awaitable promise that contains the HTTP response.
+ * Contains an HTTP Request object with configuration data on the HTTP request.
+ * @returns An awaitable promise that contains the HTTP response.
  * 
  * @example
  * ```javascript
@@ -19,8 +16,8 @@
  * request.setMethod(HttpRequestMethod.Post);
  * 
  * http.request(request).then((response) => {
- *  console.warn(`Body: ${response.body}`);
- *  console.warn(`Status: ${response.status}`);
+ *     console.warn(`Body: ${response.body}`);
+ *     console.warn(`Status: ${response.status}`);
  * });
  * ```
  */

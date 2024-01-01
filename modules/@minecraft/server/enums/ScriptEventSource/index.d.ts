@@ -1,4 +1,1 @@
-/**
- * @beta
- * Describes where the script event originated from.
- */
+/** Describes where the script event originated from. */

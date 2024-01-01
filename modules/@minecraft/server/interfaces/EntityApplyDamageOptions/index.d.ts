@@ -1,4 +1,1 @@
-/**
- * @beta
- * Additional descriptions and metadata for a damage event.
- */
+/** Additional descriptions and metadata for a damage event. */

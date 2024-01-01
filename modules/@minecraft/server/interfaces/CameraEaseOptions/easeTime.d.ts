@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Time for the ease operation.
- *
- */
+/** @remarks Time for the ease operation. */

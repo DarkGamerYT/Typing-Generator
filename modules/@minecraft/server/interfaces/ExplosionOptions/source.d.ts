@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Optional source of the explosion.
- *
- */
+/** @remarks Optional source of the explosion. */

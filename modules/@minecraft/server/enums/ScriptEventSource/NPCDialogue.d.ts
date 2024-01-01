@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * The script event originated from an NPC dialogue.
- *
- */
+/** @remarks The script event originated from an NPC dialogue. */

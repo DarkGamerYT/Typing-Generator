@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * The phase following the First Quarter.
- *
- */
+/** @remarks The phase following the First Quarter. */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Optional projectile that may have caused damage.
- *
- */
+/** @remarks Optional projectile that may have caused damage. */

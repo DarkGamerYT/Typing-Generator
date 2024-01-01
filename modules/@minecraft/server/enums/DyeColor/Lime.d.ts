@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Lime dye color.
- *
+ * @remarks Lime dye color.
  */

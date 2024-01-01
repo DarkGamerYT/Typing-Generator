@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * Damage caused by being struck by lightning.
- *
- */
+/** @remarks Damage caused by being struck by lightning. */

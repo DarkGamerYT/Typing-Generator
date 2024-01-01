@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Returns the squared length of this vector.
- *
- */
+/** @remarks Returns the squared length of this vector. */

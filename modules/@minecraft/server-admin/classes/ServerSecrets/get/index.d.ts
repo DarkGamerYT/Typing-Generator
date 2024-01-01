@@ -6,5 +6,4 @@
  * but is not made available to the script environment.
  *
  * This function can't be called in read-only mode.
- *
  */

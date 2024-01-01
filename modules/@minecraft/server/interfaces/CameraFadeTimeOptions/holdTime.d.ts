@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Time, in seconds, to hold the full screen color.
- *
- */
+/** @remarks Time, in seconds, to hold the full screen color. */

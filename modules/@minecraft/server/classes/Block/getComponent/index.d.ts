@@ -1,18 +1,12 @@
 /**
- * @beta
  * @remarks
- * Gets a component (that represents additional capabilities)
- * for a block - for example, an inventory component of a chest
- * block.
+ * Gets a component (that represents additional capabilities) for a block - for example, an inventory component of a chest block.
  *
  * @param componentId
- * The identifier of the component (e.g.,
- * 'minecraft:inventory'). If no namespace prefix is specified,
- * 'minecraft:' is assumed. Available component IDs can be
- * found as part of the {@link BlockComponentTypes} enum.
- * @returns
- * Returns the component if it exists on the block, otherwise
- * undefined.
+ * The identifier of the component (e.g., 'minecraft:inventory').
+ * If no namespace prefix is specified, 'minecraft:' is assumed.
+ * Available component IDs can be found as part of the {@link BlockComponentTypes} enum.
+ * @returns Returns the component if it exists on the block, otherwise undefined.
  * @throws This function can throw errors.
  *
  * {@link LocationInUnloadedChunkError}

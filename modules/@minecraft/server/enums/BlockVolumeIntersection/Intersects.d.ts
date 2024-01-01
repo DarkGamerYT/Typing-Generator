@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Volume B partially intersects Volume A
- *
+ * @remarks Volume B partially intersects Volume A
  */

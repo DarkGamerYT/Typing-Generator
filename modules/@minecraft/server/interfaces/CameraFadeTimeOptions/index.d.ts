@@ -1,4 +1,1 @@
-/**
- * @beta
- * Contains timings for a fade transition.
- */
+/** Contains timings for a fade transition. */

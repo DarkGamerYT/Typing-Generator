@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Fade color to use.
- *
- */
+/** @remarks Fade color to use. */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Type of ease operation to use.
- *
- */
+/** @remarks Type of ease operation to use. */

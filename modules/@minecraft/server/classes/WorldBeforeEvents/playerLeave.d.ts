@@ -1,3 +1,1 @@
-/**
- * @beta
- */
+/** @remarks Fires when a player leaves the game. */

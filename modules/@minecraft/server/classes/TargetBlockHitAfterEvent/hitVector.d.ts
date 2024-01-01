@@ -1,5 +1,1 @@
-/**
- * @remarks
- * The position where the source hit the block.
- *
- */
+/** @remarks The position where the source hit the block. */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Optional volume of the sound.
- *
- */
+/** @remarks Optional volume of the sound. */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * A set of valid values for the block property.
- *
- */
+/** @remarks A set of valid values for the block property. */

@@ -1,4 +1,1 @@
-/**
- * @beta
- * A general purpose relative direction enumeration.
- */
+/** A general purpose relative direction enumeration. */

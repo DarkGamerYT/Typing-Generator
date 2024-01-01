@@ -1,4 +1,1 @@
-/**
- * @beta
- * Contains objectives and participants for the scoreboard.
- */
+/** Contains objectives and participants for the scoreboard. */

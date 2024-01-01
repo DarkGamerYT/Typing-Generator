@@ -1,6 +1,5 @@
 /**
  * @beta
- * Contains information related to firing of a data driven
- * entity event - for example, the minecraft:ageable_grow_up
- * event on a chicken.
+ * Contains information related to firing of a data driven entity event -
+ * for example, the minecraft:ageable_grow_up event on a chicken.
  */

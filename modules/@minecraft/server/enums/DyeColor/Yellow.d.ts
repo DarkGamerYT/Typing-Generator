@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Yellow dye color.
- *
+ * @remarks Yellow dye color.
  */

@@ -1,5 +1,4 @@
 /**
  * @beta
- * Manages callbacks that are connected to chat messages being
- * sent.
+ * Manages callbacks that are connected to chat messages being sent.
  */

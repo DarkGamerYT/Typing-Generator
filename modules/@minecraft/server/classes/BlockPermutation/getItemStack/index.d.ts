@@ -1,13 +1,10 @@
 /**
  * @beta
  * @remarks
- * Retrieves a prototype item stack based on this block
- * permutation that can be used with item
- * Container/ContainerSlot APIs.
+ * Retrieves a prototype item stack based on this block permutation that can be used with item Container/ContainerSlot APIs.
  *
  * @param amount
- * Number of instances of this block to place in the prototype
- * item stack.
+ * Number of instances of this block to place in the prototype itemstack.
  *
  * @example
  * ```javascript

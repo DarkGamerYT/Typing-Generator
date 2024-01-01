@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Y component of this vector.
- *
- */
+/** @remarks Y component of this vector. */

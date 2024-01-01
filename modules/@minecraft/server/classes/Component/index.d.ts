@@ -1,4 +1,1 @@
-/**
- * @beta
- * Base class for downstream Component implementations.
- */
+/** Base class for downstream Component implementations. */

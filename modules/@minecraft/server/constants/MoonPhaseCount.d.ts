@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * Holds the number of MoonPhases
- *
- */
+/** @remarks Holds the number of MoonPhases */

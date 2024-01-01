@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * Specifies a rain weather condition.
- *
- */
+/** @remarks Specifies a rain weather condition. */

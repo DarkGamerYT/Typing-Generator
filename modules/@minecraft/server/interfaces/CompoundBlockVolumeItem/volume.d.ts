@@ -1,5 +1,1 @@
-/**
- * @remarks
- * The volume of space
- *
- */
+/** @remarks The volume of space */

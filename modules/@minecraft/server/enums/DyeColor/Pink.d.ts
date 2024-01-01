@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * Pink dye color.
- *
+ * @remarks Pink dye color.
  */

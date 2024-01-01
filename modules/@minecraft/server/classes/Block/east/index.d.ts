@@ -1,7 +1,5 @@
 /**
- * @beta
- * @remarks
- * Returns the {@link Block} east this block (positive in the X direction).
+ * @remarks Returns the {@link Block} east this block (positive in the X direction).
  *
  * @param steps
  * Number of steps east to step before returning.

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * The sources that triggered the trip wire to trip.
- *
- */
+/** @remarks The sources that triggered the trip wire to trip. */

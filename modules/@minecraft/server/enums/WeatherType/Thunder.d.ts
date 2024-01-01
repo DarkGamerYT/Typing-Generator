@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * Specifies a rain and thunder weather condition.
- *
- */
+/** @remarks Specifies a rain and thunder weather condition. */

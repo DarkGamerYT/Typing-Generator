@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Whether parts of the explosion also impact underwater.
- *
- */
+/** @remarks Whether parts of the explosion also impact underwater. */

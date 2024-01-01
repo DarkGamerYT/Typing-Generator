@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Identifier of the scoreboard objective to filter on.
- *
- */
+/** @remarks Identifier of the scoreboard objective to filter on. */

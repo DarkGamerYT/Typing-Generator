@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * Damage caused by a projectile.
- *
- */
+/** @remarks Damage caused by a projectile. */

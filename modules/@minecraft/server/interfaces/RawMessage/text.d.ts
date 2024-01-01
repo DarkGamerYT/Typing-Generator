@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Provides a string literal value to use.
- *
- */
+/** @remarks Provides a string literal value to use. */

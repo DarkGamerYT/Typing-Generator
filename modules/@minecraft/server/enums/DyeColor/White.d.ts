@@ -1,6 +1,4 @@
 /**
  * @beta
- * @remarks
- * White dye color.
- *
+ * @remarks White dye color.
  */

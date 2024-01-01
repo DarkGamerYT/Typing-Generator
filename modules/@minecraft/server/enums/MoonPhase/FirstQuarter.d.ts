@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * The phase following the Waxing Crescent.
- *
- */
+/** @remarks The phase following the Waxing Crescent. */
