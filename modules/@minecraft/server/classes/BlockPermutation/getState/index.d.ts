@@ -1,5 +1,4 @@
 /**
- * @beta
  * @remarks Gets a state for the permutation.
  *
  * @param stateName

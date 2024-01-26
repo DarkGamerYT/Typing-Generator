@@ -1,5 +1,1 @@
-/**
- * @remarks
- * A list of available, configured server variables.
- *
- */
+/** @remarks A list of available, configured server variables. */

@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * A trip wire was tripped.
- *
- */
+/** @remarks A trip wire was tripped. */

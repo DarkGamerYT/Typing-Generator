@@ -2,7 +2,6 @@
  * @remarks Sets a custom base color used for the sign text.
  *
  * This function can't be called in read-only mode.
- *
  * @throws This function can throw errors.
  * @example
  * ```javascript

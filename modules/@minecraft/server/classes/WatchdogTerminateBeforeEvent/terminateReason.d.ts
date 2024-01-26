@@ -1,6 +1,1 @@
-/**
- * @remarks
- * Contains the reason why a script runtime is to be
- * terminated.
- *
- */
+/** @remarks Contains the reason why a script runtime is to be terminated. */

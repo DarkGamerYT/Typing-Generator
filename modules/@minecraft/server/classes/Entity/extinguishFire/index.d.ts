@@ -1,5 +1,4 @@
 /**
- * @beta
  * @remarks
  * Applies a set of damage to an entity.
  *
@@ -16,7 +15,6 @@
  * if the entity is invulnerable or if the damage applied is
  * less than or equal to 0.
  * @throws This function can throw errors.
- * 
  * @example
  * ```javascript
  * import { world, system } from "@minecraft/server";

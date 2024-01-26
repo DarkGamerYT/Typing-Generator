@@ -1,16 +1,10 @@
 /**
- * @beta
- * @remarks
- * Returns the first intersecting block from the direction that
- * this entity is looking at.
+ * @remarks Returns the first intersecting block from the direction that this entity is looking at.
  *
  * @param options
  * Additional configuration options for the ray cast.
- * @returns
- * Returns the first intersecting block from the direction that
- * this entity is looking at.
+ * @returns Returns the first intersecting block from the direction that this entity is looking at.
  * @throws This function can throw errors.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";
@@ -20,7 +14,7 @@
  * const raycast = skelly.getBlockFromViewDirection({ maxDistance: 8 });
  * const block = raycast?.block;
  * if (block) {
- *  console.warn(`Block: ${block.typeId}`);
+ *     console.warn(`Block: ${block.typeId}`);
  * };
  * ```
  */

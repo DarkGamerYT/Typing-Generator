@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Identifier of this ScriptEvent command message.
- *
- */
+/** @remarks Identifier of this ScriptEvent command message. */

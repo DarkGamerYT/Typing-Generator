@@ -1,5 +1,4 @@
 /**
- * @beta
  * @remarks
  * Applies a set of damage to an entity.
  *
@@ -8,13 +7,10 @@
  * @param amount
  * Amount of damage to apply.
  * @param options
- * Additional options about the source of damage, which may add
- * additional effects or spur additional behaviors on this
- * entity.
+ * Additional options about the source of damage, which may add additional effects or spur additional behaviors on this entity.
  * @returns
- * Whether the entity takes any damage. This can return false
- * if the entity is invulnerable or if the damage applied is
- * less than or equal to 0.
+ * Whether the entity takes any damage.
+ * This can return false if the entity is invulnerable or if the damage applied is less than or equal to 0.
  * @throws This function can throw errors.
  * @example
  * ```javascript

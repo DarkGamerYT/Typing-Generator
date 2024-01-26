@@ -1,6 +1,5 @@
 /**
- * @remarks
- * Returns the text of the sign if `setText` was called with a string, otherwise returns undefined.
+ * @remarks Returns the text of the sign if `setText` was called with a string, otherwise returns undefined.
  *
  * @param side
  * The side of the sign to read the message from.

@@ -1,0 +1,1 @@
+/** Represents the flying speed of an entity. */

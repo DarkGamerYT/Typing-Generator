@@ -1,18 +1,12 @@
 /**
- * @beta
- * @remarks
- * Gets a component (that represents additional capabilities)
- * for an entity.
+ * @remarks Gets a component (that represents additional capabilities) for an entity.
  *
  * @param componentId
  * The identifier of the component (e.g., 'minecraft:health').
- * If no namespace prefix is specified, 'minecraft:' is
- * assumed. Available component IDs can be found as part of the
+ * If no namespace prefix is specified, 'minecraft:' is assumed.
+ * Available component IDs can be found as part of the
  * {@link EntityComponentTypes} enum.
- * @returns
- * Returns the component if it exists on the entity, otherwise
- * undefined.
- * 
+ * @returns Returns the component if it exists on the entity, otherwise undefined.
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";
@@ -24,7 +18,6 @@
  * container.addItem(new ItemStack("minecraft:dirt"));
  * container.setItem(8, new ItemStack("minecraft:dirt"));
  * ```
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

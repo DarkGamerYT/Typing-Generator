@@ -1,4 +1,1 @@
-/**
- * @beta
- * @remarks Red dye color.
- */
+/** @remarks Red dye color. */

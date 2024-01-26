@@ -6,7 +6,6 @@
  * @param uri
  * URL to make an HTTP Request to.
  * @returns An awaitable promise that contains the HTTP response.
- * 
  * @example
  * ```javascript
  * import { http } from "@minecraft/server-net";

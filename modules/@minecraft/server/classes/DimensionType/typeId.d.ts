@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Identifier of the dimension type.
- *
- */
+/** @remarks Identifier of the dimension type. */

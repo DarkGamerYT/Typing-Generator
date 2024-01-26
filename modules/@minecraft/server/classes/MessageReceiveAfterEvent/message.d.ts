@@ -1,5 +1,1 @@
-/**
- * @remarks
- * The message.
- *
- */
+/** @remarks The message. */

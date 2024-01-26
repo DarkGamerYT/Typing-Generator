@@ -10,7 +10,6 @@
  * @throws
  * Throws an exception if the command fails due to incorrect parameters or command syntax, or in erroneous cases for the command.
  * Note that in many cases, if the command does not operate (e.g., a target selector found no matches), this method will not throw an exception.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

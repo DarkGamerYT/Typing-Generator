@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Event name of the trigger.
- *
- */
+/** @remarks Event name of the trigger. */

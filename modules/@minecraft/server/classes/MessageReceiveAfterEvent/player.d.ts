@@ -1,5 +1,1 @@
-/**
- * @remarks
- * The player who sent the message.
- *
- */
+/** @remarks The player who sent the message. */

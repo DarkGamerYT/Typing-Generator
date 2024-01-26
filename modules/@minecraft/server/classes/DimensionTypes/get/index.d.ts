@@ -1,6 +1,5 @@
 /**
- * @remarks
- * Retrieves a dimension type using a string-based identifier.
+ * @remarks Retrieves a dimension type using a string-based identifier.
  * @example
  * ```javascript
  * import { DimensionTypes } from "@minecraft/server";

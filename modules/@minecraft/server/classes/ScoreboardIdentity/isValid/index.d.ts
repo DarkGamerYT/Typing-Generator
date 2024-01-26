@@ -1,6 +1,1 @@
-/**
- * @remarks
- * Returns true if the ScoreboardIdentity reference is still
- * valid.
- *
- */
+/** @remarks Returns true if the ScoreboardIdentity reference is still valid. */

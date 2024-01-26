@@ -14,7 +14,6 @@
  * A set of additional options, such as a matching block to potentially replace this fill block with.
  * @returns Returns number of blocks placed.
  * @throws This function can throw errors.
- * 
  * @example
  * ```javascript
  * import { world, BlockPermutation } from "@minecraft/server";

@@ -1,3 +1,1 @@
-/**
- * Represents a player within the world.
- */
+/** Represents a player within the world. */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * A list of available, configured server secrets.
- *
- */
+/** @remarks A list of available, configured server secrets. */

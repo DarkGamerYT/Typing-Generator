@@ -1,3 +1,4 @@
 {
-    "description": "Contains types related to administering a Bedrock Dedicated Server.\nThese types allow for the configuration of variables and secrets in JSON files in the Bedrock Dedicated Server folder.\nThese types cannot be used on Minecraft clients."
+    "description": "Contains types related to administering a Bedrock Dedicated Server.\nThese types allow for the configuration of variables and secrets in JSON files in the Bedrock Dedicated Server folder.\nThese types cannot be used on Minecraft clients.",
+    "documentation": "https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/minecraft/server-admin/minecraft-server-admin"
 }

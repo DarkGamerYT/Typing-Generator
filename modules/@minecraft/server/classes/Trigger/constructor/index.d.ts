@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Creates a new trigger.
- *
- */
+/** @remarks Creates a new trigger. */

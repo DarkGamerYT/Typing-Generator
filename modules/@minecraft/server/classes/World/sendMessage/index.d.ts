@@ -6,7 +6,6 @@
  * @throws
  * This method can throw if the provided {@link RawMessage} is in an invalid format.
  * For example, if an empty `name` string is provided to `score`.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

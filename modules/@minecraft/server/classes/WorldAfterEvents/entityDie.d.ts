@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * This event fires when an entity dies.
- *
- */
+/** @remarks This event fires when an entity dies. */

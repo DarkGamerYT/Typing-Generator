@@ -1,4 +1,1 @@
-/**
- * @beta
- * Provides a list of enchantment types.
- */
+/** @beta Provides a list of enchantment types. */

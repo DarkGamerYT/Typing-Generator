@@ -1,5 +1,1 @@
-/**
- * @remarks
- * The name of the enchantment type.
- *
- */
+/** @remarks The name of the enchantment type. */

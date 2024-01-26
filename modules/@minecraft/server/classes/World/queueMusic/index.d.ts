@@ -12,7 +12,6 @@
  * @throws
  * An error will be thrown if volume is less than 0.0.
  * An error will be thrown if fade is less than 0.0.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

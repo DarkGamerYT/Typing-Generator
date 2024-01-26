@@ -17,7 +17,6 @@
  * const matches = permutation.matches("minecraft:dirt");
  * console.warn(`Block matches: ${matches}`);
  * ```
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

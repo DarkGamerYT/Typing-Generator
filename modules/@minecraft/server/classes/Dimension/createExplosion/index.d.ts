@@ -1,5 +1,4 @@
 /**
- * @beta
  * @remarks Creates an explosion at the specified location.
  *
  * This function can't be called in read-only mode.
@@ -15,7 +14,6 @@
  * {@link LocationInUnloadedChunkError}
  *
  * {@link LocationOutOfWorldBoundariesError}
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

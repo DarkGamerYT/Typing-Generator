@@ -1,0 +1,1 @@
+/** Defines this entity's inventory properties. */

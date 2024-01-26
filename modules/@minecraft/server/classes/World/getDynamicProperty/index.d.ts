@@ -5,7 +5,6 @@
  * The property identifier.
  * @returns Returns the value for the property, or undefined if the property has not been set.
  * @throws Throws if the given dynamic property identifier is not defined.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

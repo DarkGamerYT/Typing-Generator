@@ -1,4 +1,1 @@
-/**
- * @beta
- * Base class for downstream entity components.
- */
+/** Base class for downstream entity components. */

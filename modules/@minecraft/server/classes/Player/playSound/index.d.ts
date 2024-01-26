@@ -1,7 +1,5 @@
 /**
- * @beta
- * @remarks
- * Plays a sound that only this particular player can hear.
+ * @remarks Plays a sound that only this particular player can hear.
  *
  * This function can't be called in read-only mode.
  *

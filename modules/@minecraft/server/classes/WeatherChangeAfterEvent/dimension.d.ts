@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Dimension in which the weather has changed.
- *
- */
+/** @remarks Dimension in which the weather has changed. */

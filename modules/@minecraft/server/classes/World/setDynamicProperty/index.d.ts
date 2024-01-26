@@ -6,7 +6,6 @@
  * @param value
  * Data value of the property to set.
  * @throws Throws if the given dynamic property identifier is not defined.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

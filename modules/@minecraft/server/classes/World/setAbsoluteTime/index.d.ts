@@ -5,7 +5,6 @@
  *
  * @param absoluteTime
  * The world time, in ticks.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

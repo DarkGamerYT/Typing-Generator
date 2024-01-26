@@ -1,4 +1,1 @@
-/**
- * @beta
- * Enumerates all {@link BlockStateType}s.
- */
+/** Enumerates all {@link BlockStateType}s. */

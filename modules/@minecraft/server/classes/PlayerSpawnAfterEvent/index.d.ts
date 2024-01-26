@@ -1,0 +1,1 @@
+/** An event that contains more information about a player spawning. */

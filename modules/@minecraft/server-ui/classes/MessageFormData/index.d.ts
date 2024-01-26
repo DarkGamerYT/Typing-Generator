@@ -1,6 +1,5 @@
 /**
  * Builds a simple two-button modal dialog.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

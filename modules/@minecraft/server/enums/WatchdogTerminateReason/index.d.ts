@@ -1,4 +1,1 @@
-/**
- * @beta
- * An enumeration with the reason that a watchdog is deciding to terminate execution of a behavior packs' script.
- */
+/** @beta An enumeration with the reason that a watchdog is deciding to terminate execution of a behavior packs' script. */

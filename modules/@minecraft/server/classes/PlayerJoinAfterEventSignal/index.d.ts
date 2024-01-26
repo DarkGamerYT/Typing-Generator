@@ -1,0 +1,1 @@
+/** Manages callbacks that are connected to a player joining the world. */

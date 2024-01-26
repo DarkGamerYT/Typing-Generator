@@ -1,4 +1,1 @@
-/**
- * A collection of server variables defined in dedicated server
- * configuration.
- */
+/** A collection of server variables defined in dedicated server configuration. */

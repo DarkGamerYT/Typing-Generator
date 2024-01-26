@@ -1,4 +1,1 @@
-/**
- * @beta
- * Base class for item components.
- */
+/** Base class for item components. */

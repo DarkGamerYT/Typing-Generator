@@ -1,6 +1,5 @@
 /**
- * @remarks
- * Gets the dye that is on the text or undefined if the sign has not been dyed.
+ * @remarks Gets the dye that is on the text or undefined if the sign has not been dyed.
  *
  * @param side
  * The side of the sign to read the dye from.

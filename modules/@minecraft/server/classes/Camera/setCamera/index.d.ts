@@ -8,7 +8,6 @@
  * @param setOptions
  * Additional options for the camera.
  * @throws This function can throw errors.
- * 
  * @example
  * ```javascript
  * import { world, system, EasingType } from "@minecraft/server";

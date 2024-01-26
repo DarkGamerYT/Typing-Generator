@@ -1,5 +1,1 @@
-/**
- * @beta
- * Represents a type of effect - like poison - that can be
- * applied to an entity.
- */
+/** Represents a type of effect - like poison - that can be applied to an entity. */

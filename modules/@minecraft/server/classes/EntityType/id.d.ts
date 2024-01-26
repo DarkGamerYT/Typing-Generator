@@ -1,6 +1,1 @@
-/**
- * @remarks
- * Identifier of this entity type - for example,
- * 'minecraft:skeleton'.
- *
- */
+/** @remarks Identifier of this entity type - for example, 'minecraft:skeleton'. */

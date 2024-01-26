@@ -1,17 +1,13 @@
 /**
  * @remarks
- * Runs a particular command asynchronously from the context of
- * this entity. Note that there is a maximum queue of 128
- * asynchronous commands that can be run in a given tick.
+ * Runs a particular command asynchronously from the context of this entity.
+ * Note that there is a maximum queue of 128 asynchronous commands that can be run in a given tick.
  *
  * @param commandString
- * Command to run. Note that command strings should not start
- * with slash.
- * @returns
- * For commands that return data, returns a JSON structure with
- * command response values.
+ * Command to run.
+ * Note that command strings should not start with slash.
+ * @returns For commands that return data, returns a JSON structure with command response values.
  * @throws This function can throw errors.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

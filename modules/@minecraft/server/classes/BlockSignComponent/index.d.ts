@@ -1,4 +1,1 @@
-/**
- * @beta
- * Represents a block that can display text on it.
- */
+/** Represents a block that can display text on it. */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Score value of the identity for this objective.
- *
- */
+/** @remarks Score value of the identity for this objective. */

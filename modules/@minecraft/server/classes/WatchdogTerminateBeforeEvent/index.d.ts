@@ -1,5 +1,1 @@
-/**
- * @beta
- * Contains information related to a script watchdog
- * termination.
- */
+/** @beta Contains information related to a script watchdog termination. */

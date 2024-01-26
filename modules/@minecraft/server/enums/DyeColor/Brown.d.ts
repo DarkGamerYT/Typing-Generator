@@ -1,4 +1,1 @@
-/**
- * @beta
- * @remarks Brown dye color.
- */
+/** @remarks Brown dye color. */

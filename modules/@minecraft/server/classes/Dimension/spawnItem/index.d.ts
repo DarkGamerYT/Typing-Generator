@@ -11,7 +11,6 @@
  * {@link LocationInUnloadedChunkError}
  *
  * {@link LocationOutOfWorldBoundariesError}
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

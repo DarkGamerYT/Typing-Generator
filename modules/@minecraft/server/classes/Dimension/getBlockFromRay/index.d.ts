@@ -7,7 +7,6 @@
  * Vector direction to cast the ray.
  * @param options
  * Additional options for processing this raycast query.
- * 
  * @example
  * ```javascript
  * import { world, Vector } from "@minecraft/server";

@@ -15,7 +15,6 @@
  * {@link LocationInUnloadedChunkError}
  *
  * {@link LocationOutOfWorldBoundariesError}
- * 
  * @example
  * ```javascript
  * import { world, Direction } from "@minecraft/server";
@@ -37,7 +36,6 @@
  * const canPlace = block.canPlace(BlockTypes.get("minecraft:dirt"), Direction.Up);
  * console.warn(`Can place on dirt: ${canPlace}`);
  * ```
- * 
  * @example
  * ```javascript
  * import { world, BlockPermutation, Direction } from "@minecraft/server";

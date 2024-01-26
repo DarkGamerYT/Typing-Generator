@@ -1,4 +1,1 @@
-/**
- * @beta
- * @remarks Represents powder snow as a type of fluid.
- */
+/** @remarks Represents powder snow as a type of fluid. */

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Type of the scoreboard identity.
- *
- */
+/** @remarks Type of the scoreboard identity. */

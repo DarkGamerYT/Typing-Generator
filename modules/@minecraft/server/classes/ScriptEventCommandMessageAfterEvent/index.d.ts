@@ -1,5 +1,1 @@
-/**
- * @beta
- * Returns additional data about a /scriptevent command
- * invocation.
- */
+/** Returns additional data about a /scriptevent command invocation. */

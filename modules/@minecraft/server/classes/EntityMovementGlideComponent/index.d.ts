@@ -1,0 +1,1 @@
+/** @beta When added, this movement control allows the mob to glide. */

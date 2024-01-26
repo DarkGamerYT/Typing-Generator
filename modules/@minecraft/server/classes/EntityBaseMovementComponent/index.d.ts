@@ -1,0 +1,1 @@
+/** Base class for a family of entity movement events. */

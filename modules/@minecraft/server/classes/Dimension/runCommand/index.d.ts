@@ -11,7 +11,6 @@
  * Note that in many cases, if the command does not operate (e.g., a target selector found no matches), this method will not throw an exception.
  *
  * {@link CommandError}
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

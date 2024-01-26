@@ -1,0 +1,1 @@
+/** @remarks Name of the player that has joined. */

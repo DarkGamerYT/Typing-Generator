@@ -1,5 +1,1 @@
-/**
- * @remarks
- * The message identifier.
- *
- */
+/** @remarks The message identifier. */

@@ -1,0 +1,1 @@
+/** @remarks Opaque string identifier of the player that joined the game. */

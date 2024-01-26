@@ -1,3 +1,4 @@
 {
-    "description": "The `@minecraft/server-net` module contains types for executing HTTP-based requests.\nThis module can only be used on Bedrock Dedicated Server."
+    "description": "The `@minecraft/server-net` module contains types for executing HTTP-based requests.\nThis module can only be used on Bedrock Dedicated Server.",
+    "documentation": "https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/minecraft/server-net/minecraft-server-net"
 }

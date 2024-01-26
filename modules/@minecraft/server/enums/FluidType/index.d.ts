@@ -1,4 +1,1 @@
-/**
- * @beta
- * Represents the type of fluid for use within a fluid containing block, like a cauldron.
- */
+/** Represents the type of fluid for use within a fluid containing block, like a cauldron. */

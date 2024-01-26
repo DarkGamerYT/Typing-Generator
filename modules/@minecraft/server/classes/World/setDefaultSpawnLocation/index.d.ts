@@ -10,7 +10,6 @@
  * {@link Error}
  *
  * {@link LocationOutOfWorldBoundariesError}
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

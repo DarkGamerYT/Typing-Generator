@@ -1,6 +1,5 @@
 /**
  * @beta
- * 
  * @example
  * ```javascript
  * import { world, system, BlockTypes, Vector } from "@minecraft/server";

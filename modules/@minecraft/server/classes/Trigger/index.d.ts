@@ -1,4 +1,1 @@
-/**
- * @beta
- * Represents a trigger for firing an event.
- */
+/** @beta Represents a trigger for firing an event. */

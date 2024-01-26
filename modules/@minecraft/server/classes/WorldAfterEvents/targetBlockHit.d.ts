@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * A target block was hit.
- *
- */
+/** @remarks A target block was hit. */

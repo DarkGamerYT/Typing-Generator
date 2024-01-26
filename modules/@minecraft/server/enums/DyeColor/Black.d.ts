@@ -1,4 +1,1 @@
-/**
- * @beta
- * @remarks Black dye color.
- */
+/** @remarks Black dye color. */

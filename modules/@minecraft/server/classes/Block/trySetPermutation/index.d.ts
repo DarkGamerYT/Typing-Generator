@@ -12,7 +12,6 @@
  * {@link LocationInUnloadedChunkError}
  *
  * {@link LocationOutOfWorldBoundariesError}
- * 
  * @example
  * ```javascript
  * import { world, BlockPermutation } from "@minecraft/server";

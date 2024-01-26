@@ -1,5 +1,1 @@
-/**
- * @remarks
- * The type of the item.
- *
- */
+/** @remarks The type of the item. */

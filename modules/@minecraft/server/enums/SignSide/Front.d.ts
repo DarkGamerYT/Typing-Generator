@@ -1,4 +1,1 @@
-/**
- * @beta
- * @remarks The front of the sign.
- */
+/** @remarks The front of the sign. */

@@ -13,7 +13,6 @@
  * {@link LocationInUnloadedChunkError}
  *
  * {@link LocationOutOfWorldBoundariesError}
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";
@@ -23,7 +22,6 @@
  *
  * block.setType("minecraft:dirt");
  * ```
- * 
  * @example
  * ```javascript
  * import { world, BlockTypes } from "@minecraft/server";

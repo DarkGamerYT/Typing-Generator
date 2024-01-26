@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Whether it is lightning after the change in weather.
- *
- */
+/** @remarks Whether it is lightning after the change in weather. */

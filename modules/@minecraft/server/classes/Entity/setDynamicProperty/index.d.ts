@@ -1,14 +1,11 @@
 /**
- * @beta
- * @remarks
- * Sets a specified property to a value.
+ * @remarks Sets a specified property to a value.
  *
  * @param identifier
  * The property identifier.
  * @param value
  * Data value of the property to set.
  * @throws This function can throw errors.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

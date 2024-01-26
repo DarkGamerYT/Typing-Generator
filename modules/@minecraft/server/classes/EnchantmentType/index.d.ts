@@ -1,4 +1,1 @@
-/**
- * @beta
- * Contains information on a type of enchantment.
- */
+/** @beta Contains information on a type of enchantment. */

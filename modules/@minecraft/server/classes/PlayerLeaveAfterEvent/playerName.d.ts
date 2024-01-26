@@ -1,0 +1,1 @@
+/** @remarks Player that has left the world. */

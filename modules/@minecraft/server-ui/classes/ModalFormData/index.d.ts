@@ -1,6 +1,5 @@
 /**
  * Used to create a fully customizable pop-up form for a player.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

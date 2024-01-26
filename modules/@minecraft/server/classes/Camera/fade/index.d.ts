@@ -8,7 +8,6 @@
  * @param fadeCameraOptions
  * Additional options around camera fade operations.
  * @throws This function can throw errors.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

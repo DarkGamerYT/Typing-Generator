@@ -12,7 +12,6 @@
  * {@link LocationInUnloadedChunkError}
  *
  * {@link LocationOutOfWorldBoundariesError}
- * 
  * @example
  * ```javascript
  * import { world, ItemStack } from "@minecraft/server";
@@ -23,7 +22,6 @@
  * const inventory = block.getComponent("inventory").container;
  * inventory.addItem(new ItemStack("minecraft:dirt"));
  * ```
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

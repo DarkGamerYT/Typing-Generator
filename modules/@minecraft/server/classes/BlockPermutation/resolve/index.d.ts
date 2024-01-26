@@ -1,7 +1,5 @@
 /**
- * @remarks
- * Given a type identifier and an optional set of properties,
- * will return a BlockPermutation object that is usable in other block APIs (e.g., block.setPermutation)
+ * @remarks Given a type identifier and an optional set of properties, will return a BlockPermutation object that is usable in other block APIs (e.g., block.setPermutation)
  *
  * @param blockName
  * Identifier of the block to check.

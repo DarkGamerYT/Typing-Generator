@@ -1,0 +1,1 @@
+/** @beta When added, this move control causes the mob to sway side to side giving the impression it is swimming. */

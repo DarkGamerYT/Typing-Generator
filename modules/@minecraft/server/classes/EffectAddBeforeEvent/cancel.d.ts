@@ -1,5 +1,1 @@
-/**
- * @remarks
- * When set to true will cancel the event.
- *
- */
+/** @remarks When set to true will cancel the event. */

@@ -1,5 +1,4 @@
 /**
- * @beta
  * @remarks
  * Sets an entity on fire (if it is not in water or rain). Note
  * that you can call getComponent('minecraft:onfire') and, if
@@ -18,7 +17,6 @@
  * is less than or equal to zero, the entity is wet or the
  * entity is immune to fire.
  * @throws This function can throw errors.
- * 
  * @example
  * ```javascript
  * import { world, system } from "@minecraft/server";

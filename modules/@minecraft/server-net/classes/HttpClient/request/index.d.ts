@@ -6,7 +6,6 @@
  * @param config
  * Contains an HTTP Request object with configuration data on the HTTP request.
  * @returns An awaitable promise that contains the HTTP response.
- * 
  * @example
  * ```javascript
  * import { http, HttpRequest, HttpRequestMethod } from "@minecraft/server-net";

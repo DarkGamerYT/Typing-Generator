@@ -1,5 +1,4 @@
 /**
- * @beta
  * @remarks Returns a derived BlockPermutation with a specific property set.
  *
  * @param name
@@ -7,7 +6,6 @@
  * @param value
  * Value of the block property.
  * @throws This function can throw errors.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

@@ -1,5 +1,1 @@
-/**
- * @remarks
- * Retrieves an array of all dimension types.
- *
- */
+/** @remarks Retrieves an array of all dimension types. */

@@ -1,0 +1,1 @@
+/** Sets the entity's visual size. */

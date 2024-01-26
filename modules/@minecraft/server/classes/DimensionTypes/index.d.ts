@@ -1,4 +1,1 @@
-/**
- * @beta
- * Used for accessing all available dimension types.
- */
+/** Used for accessing all available dimension types. */

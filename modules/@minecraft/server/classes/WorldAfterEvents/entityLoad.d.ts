@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * Fires when an entity is loaded.
- *
- */
+/** @remarks Fires when an entity is loaded. */

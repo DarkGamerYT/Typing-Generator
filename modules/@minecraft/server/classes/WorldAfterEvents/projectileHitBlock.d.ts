@@ -1,6 +1,1 @@
-/**
- * @beta
- * @remarks
- * This event fires when a projectile hits a block.
- *
- */
+/** @remarks This event fires when a projectile hits a block. */

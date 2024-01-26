@@ -1,3 +1,1 @@
-/**
- * Defines a collection of items.
- */
+/** Defines a collection of items. */

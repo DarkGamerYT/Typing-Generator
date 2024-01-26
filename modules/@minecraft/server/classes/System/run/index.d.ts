@@ -6,7 +6,6 @@
  * @param callback
  * Function callback to run when the tickDelay time criteria is met.
  * @returns An opaque identifier that can be used with the `clearRun` function to cancel the execution of this run.
- * 
  * @example
  * ```javascript
  * import { world, system } from "@minecraft/server";

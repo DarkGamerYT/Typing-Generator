@@ -1,8 +1,5 @@
 /**
- * @beta
- * @remarks
- * Adds/removes level to/from the Player and returns the
- * current level of the Player.
+ * @remarks Adds/removes level to/from the Player and returns the current level of the Player.
  *
  * This function can't be called in read-only mode.
  *
@@ -18,7 +15,7 @@
  * // Get the player
  * const player = world.getAllPlayers()[0];
  *
- * player.addLevels(1);
- * console.warn(`Player's current level: ${player.level}`);
+ * const level = player.addLevels(1);
+ * console.warn(`Player's current level: ${level}`);
  * ```
  */

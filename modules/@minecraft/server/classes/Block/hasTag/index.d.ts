@@ -1,5 +1,4 @@
 /**
- * @beta
  * @remarks Checks to see if the permutation of this block has a specific tag.
  *
  * @param tag

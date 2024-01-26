@@ -1,4 +1,1 @@
-/**
- * @beta
- * Represents a type of dimension.
- */
+/** Represents a type of dimension. */

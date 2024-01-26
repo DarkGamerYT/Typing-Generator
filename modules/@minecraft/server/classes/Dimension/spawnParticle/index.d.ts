@@ -14,7 +14,6 @@
  * {@link LocationInUnloadedChunkError}
  *
  * {@link LocationOutOfWorldBoundariesError}
- * 
  * @example
  * ```javascript
  * import { world, MolangVariableMap } from "@minecraft/server";

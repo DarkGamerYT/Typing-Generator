@@ -1,3 +1,4 @@
 {
-    "description": "Contains many types related to manipulating a Minecraft world, including entities, blocks, dimensions, and more."
+    "description": "Contains many types related to manipulating a Minecraft world, including entities, blocks, dimensions, and more.",
+    "documentation": "https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/minecraft/server/minecraft-server"
 }

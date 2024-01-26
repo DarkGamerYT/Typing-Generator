@@ -1,0 +1,1 @@
+/** When added, this move control allows a mob to fly, swim, climb, etc. */

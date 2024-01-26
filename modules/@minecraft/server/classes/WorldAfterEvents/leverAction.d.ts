@@ -1,5 +1,1 @@
-/**
- * @remarks
- * A lever has been pulled.
- *
- */
+/** @remarks A lever has been pulled. */

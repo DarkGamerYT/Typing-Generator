@@ -1,15 +1,11 @@
 /**
- * @beta
- * @remarks
- * Applies impulse vector to the current velocity of the
- * entity.
+ * @remarks Applies impulse vector to the current velocity of the entity.
  *
  * This function can't be called in read-only mode.
  *
  * @param vector
  * Impulse vector.
  * @throws This function can throw errors.
- * 
  * @example
  * ```javascript
  * import { world } from "@minecraft/server";

@@ -1,6 +1,1 @@
-/**
- * @remarks
- * Returns true if the current reference to this screen display
- * manager object is valid and functional.
- *
- */
+/** @remarks Returns true if the current reference to this screen display manager object is valid and functional. */
