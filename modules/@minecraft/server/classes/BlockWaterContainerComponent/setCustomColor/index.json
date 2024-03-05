@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets a custom base color used for the sign text."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

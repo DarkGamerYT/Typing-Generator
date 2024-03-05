@@ -1,0 +1,4 @@
+{
+    "beta": true,
+    "description": "Adds a timer for the entity to grow up.\nIt can be accelerated by giving the entity the items it likes as defined by feedItems."
+}

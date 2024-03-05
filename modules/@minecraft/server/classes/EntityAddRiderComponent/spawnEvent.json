@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Optional spawn event to trigger on the rider when that rider is spawned for this entity."
+        }
+    ]
+}

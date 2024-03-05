@@ -1,0 +1,23 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Set the action bar text - a piece of text that displays beneath the title and above the hot-bar."
+        },
+        {
+            "name": "param",
+            "param": "text",
+            "value": "New value for the action bar text."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "setActionBar.js"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "setActionBarRawtext.js"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the maximum chance that this item would be damaged using the damageRange property, given an unbreaking level."
+        },
+        {
+            "name": "param",
+            "param": "unbreaking",
+            "value": "Unbreaking factor to consider in factoring the damage chance. Incoming unbreaking parameter must be greater than 0."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

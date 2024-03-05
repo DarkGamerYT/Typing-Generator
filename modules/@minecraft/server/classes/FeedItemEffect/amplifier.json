@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets an amplifier that may have been applied to this effect.\nValid values are integers starting at 0 and up - but usually ranging between 0 and 4."
+        }
+    ]
+}

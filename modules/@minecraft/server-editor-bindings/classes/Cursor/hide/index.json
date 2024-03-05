@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Hide the 3D block cursor from view until the corresponding {@link Cursor.show} function is called"
+        }
+    ]
+}

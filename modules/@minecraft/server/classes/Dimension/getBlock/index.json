@@ -1,0 +1,21 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a block instance at the given location."
+        },
+        {
+            "name": "param",
+            "param": "location",
+            "value": "The location at which to return a block."
+        },
+        {
+            "name": "returns",
+            "value": "Block at the specified location, or 'undefined' if asking for a block at an unloaded chunk."
+        },
+        {
+            "name": "throws",
+            "value": "PositionInUnloadedChunkError: Exception thrown when trying to interact with a Block object that isn't in a loaded and ticking chunk anymore\n\nPositionOutOfWorldBoundariesError: Exception thrown when trying to interact with a position outside of dimension height range"
+        }
+    ]
+}

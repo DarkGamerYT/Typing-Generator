@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Current value for variant for this entity, as specified via components."
+        }
+    ]
+}

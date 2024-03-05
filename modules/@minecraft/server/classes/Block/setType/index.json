@@ -1,0 +1,24 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the type of block."
+        },
+        {
+            "name": "param",
+            "param": "blockType",
+            "value": "Identifier of the type of block to apply - for example, minecraft:powered_repeater."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "setType.js"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "setTypeBlockTypes.js"
+        }
+    ]
+}

@@ -1,1 +1,0 @@
-/** @remarks Gray dye color. */

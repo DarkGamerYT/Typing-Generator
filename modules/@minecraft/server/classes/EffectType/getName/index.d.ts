@@ -1,1 +1,0 @@
-/** @returns Identifier of the effect type. */

@@ -1,1 +1,0 @@
-/** @remarks Sets the time to midnight, which is time of the day 18,000 (or the equivalent of 12:00am) in Minecraft. */

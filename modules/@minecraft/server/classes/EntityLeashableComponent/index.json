@@ -1,0 +1,4 @@
+{
+    "beta": true,
+    "description": "Allows this entity to be leashed and defines the conditions and events for this entity when is leashed."
+}

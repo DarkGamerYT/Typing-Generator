@@ -1,0 +1,14 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets whether this block has a water logged state - for example, whether stairs are submerged within water."
+        },
+        {
+            "name": "param",
+            "param": "isWaterlogged",
+            "value": "true if the block should have water within it."
+        }
+    ]
+}

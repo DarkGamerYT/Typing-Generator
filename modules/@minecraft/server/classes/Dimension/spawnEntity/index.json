@@ -1,0 +1,20 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Creates a new entity (e.g., a mob) at the specified location."
+        },
+        {
+            "name": "identifier",
+            "value": "Identifier of the type of entity to spawn. If no namespace is specified, 'minecraft:' is assumed."
+        },
+        {
+            "name": "location",
+            "value": "The location at which to create the entity."
+        },
+        {
+            "name": "returns",
+            "value": "Newly created entity at the specified location."
+        }
+    ]
+}

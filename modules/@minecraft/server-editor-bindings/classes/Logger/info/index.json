@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The info channel is intended to communicate general, non-fatal or non-erroneous information to the player that can generally be safely ignored if they choose to do so."
+        },
+        {
+            "name": "param",
+            "param": "message",
+            "value": "The message string to send to the log window"
+        }
+    ]
+}

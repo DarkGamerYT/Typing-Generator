@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Location of the sound; if not specified, the sound is played near a player."
+        }
+    ]
+}

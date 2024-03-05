@@ -1,1 +1,0 @@
-/** @remarks The level of this enchantment instance. */

@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a set of tags associated with this item stack."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid."
+        }
+    ]
+}

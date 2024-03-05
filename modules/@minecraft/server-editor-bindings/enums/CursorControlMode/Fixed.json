@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "When in fixed mode, the 3D block cursor will remain in a fixed position directly in front of the players facing direction.\nIt cannot be moved without moving the player (or adjusting the fixed block distance).\nThis mode is useful for addressing block locations in the air (put the cursor into fixed mode, and fly the player until the desired air block is beneath the cursor, at which point it is selectable without being clickable)"
+        }
+    ]
+}

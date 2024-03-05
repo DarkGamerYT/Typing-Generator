@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Runs a specified function at a future time.\nThis is frequently used to implement delayed behaviors and game loops."
+        },
+        {
+            "name": "param",
+            "param": "callback",
+            "value": "Function callback to run when the tickDelay time criteria is met."
+        },
+        {
+            "name": "returns",
+            "value": "An opaque identifier that can be used with the `clearRun` function to cancel the execution of this run."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

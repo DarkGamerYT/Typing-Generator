@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Updates the subtitle if the subtitle was previously displayed via the setTitle method."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "countdown.js"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "countdownRawtext.js"
+        }
+    ]
+}

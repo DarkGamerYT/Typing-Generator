@@ -1,1 +1,0 @@
-/** @remarks Opaque string identifier of the player that has left the event. */

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The type of entity that is added as a rider for this entity when spawned under certain conditions."
+        }
+    ]
+}

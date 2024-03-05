@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Retrieves a specific block state instance."
+        },
+        {
+            "name": "param",
+            "param": "stateName",
+            "value": "Identifier of the block state."
+        },
+        {
+            "name": "returns",
+            "value": "Returns the {@link BlockStateType} instance if it is found.\nIf the block state instance is not found returns undefined."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Default identifier for tool rail grouping.\nAll modal tools created from the extension will use this."
+        }
+    ]
+}

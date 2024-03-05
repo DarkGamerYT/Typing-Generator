@@ -1,0 +1,14 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Retrieves a prototype item stack based on this block permutation that can be used with item {@link Container}/{@link ContainerSlot} APIs."
+        },
+        {
+            "name": "param",
+            "param": "amount",
+            "value": "Number of instances of this block to place in the prototype itemstack."
+        }
+    ]
+}

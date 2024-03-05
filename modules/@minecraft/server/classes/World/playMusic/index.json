@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Plays a particular music track for all players."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

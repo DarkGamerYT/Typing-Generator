@@ -1,0 +1,3 @@
+{
+    "description": "A `RawMessage` with only the `rawtext` property.\nWhen a `RawMessage` is serialized the contents are put into a rawtext property, so this is useful when reading saved RawMessages."
+}

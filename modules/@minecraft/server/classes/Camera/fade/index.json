@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Begins a camera fade transition.\nA fade transition is a full-screen color that fades-in, holds, and then fades-out."
+        },
+        {
+            "name": "param",
+            "param": "fadeCameraOptions",
+            "value": "Additional options around camera fade operations."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

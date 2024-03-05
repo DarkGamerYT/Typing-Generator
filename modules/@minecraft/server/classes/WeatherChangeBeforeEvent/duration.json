@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the duration of the new weather (in ticks)."
+        }
+    ]
+}

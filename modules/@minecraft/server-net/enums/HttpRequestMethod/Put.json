@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Represents the method for an HTTP PUT request.\nPUT requests are commonly used to update a single resource that already exists in a resource collection."
+        }
+    ]
+}

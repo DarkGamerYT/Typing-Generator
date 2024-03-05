@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Location relative to the bottom north-west corner of the block where the new block is being placed onto."
+        }
+    ]
+}

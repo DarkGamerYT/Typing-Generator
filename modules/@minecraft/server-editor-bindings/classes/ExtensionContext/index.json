@@ -1,0 +1,3 @@
+{
+    "description": "The extension context is a native (C++) object created for each registered Editor Extension,\nwhen a player connection is established with the server.\nA registered extension activation or deactivation closure is accompanied by an [ExtensionContext] object,\nwhich provides a player specific, editor extension specific context.\nThe Extension Context is the main interface to all the bound Editor Services.\nAs more player services are added to the editor, they will be exposed through this object"
+}

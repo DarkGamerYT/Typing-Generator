@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The type of the item."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid."
+        }
+    ]
+}

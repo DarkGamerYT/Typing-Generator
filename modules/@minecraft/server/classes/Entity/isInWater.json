@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Whether any part of the entity is inside a water block."
+        }
+    ]
+}

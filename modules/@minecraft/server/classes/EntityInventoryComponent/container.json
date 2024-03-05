@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Defines the container for this entity.\nThe container will be undefined if the entity has been removed."
+        }
+    ]
+}

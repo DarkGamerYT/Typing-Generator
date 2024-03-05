@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Adds a callback that will be called before a player interacts with an entity."
+        }
+    ]
+}

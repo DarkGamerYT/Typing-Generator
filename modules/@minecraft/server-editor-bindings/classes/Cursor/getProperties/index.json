@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Get a property object which represents the current properties of the 3D block cursor."
+        }
+    ]
+}

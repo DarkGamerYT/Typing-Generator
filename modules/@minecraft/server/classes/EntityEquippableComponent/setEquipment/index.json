@@ -1,0 +1,23 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Replaces the item in the given EquipmentSlot."
+        },
+        {
+            "name": "param",
+            "param": "equipmentSlot",
+            "value": "The equipment slot. e.g. 'head', 'chest', 'offhand'."
+        },
+        {
+            "name": "param",
+            "param": "itemStack",
+            "value": "The item to equip.\nIf undefined, clears the slot."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

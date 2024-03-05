@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Controls whether standard player notifications for recipes will show. When set to false, 'player unlocked recipes' are no longer sent as player notifications."
+        }
+    ]
+}

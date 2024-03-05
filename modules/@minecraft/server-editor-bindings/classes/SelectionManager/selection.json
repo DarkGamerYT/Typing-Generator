@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The primary {@link Selection} object is always present (even if it's empty) and cannot be deleted.\nThis object represents the main selection object which is always accessible through the UI,\nand by default is synchronized between the client and server."
+        }
+    ]
+}

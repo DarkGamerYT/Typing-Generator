@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Excludes entities if they are one of the specified types."
+        }
+    ]
+}

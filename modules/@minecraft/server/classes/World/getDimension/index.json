@@ -1,0 +1,26 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a dimension object."
+        },
+        {
+            "name": "param",
+            "param": "dimensionId",
+            "value": "The name of the dimension. For example, 'overworld', 'nether' or 'the_end'."
+        },
+        {
+            "name": "returns",
+            "value": "The requested dimension"
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the given dimension name is invalid"  
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

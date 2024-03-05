@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Commit all of the transaction operations currently attached to the open transaction record to the manager.\nThese will be added as a single transaction manager entry.\nThe open record will be closed and all tracking operations will cease."
+        }
+    ]
+}

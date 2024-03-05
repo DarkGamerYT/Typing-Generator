@@ -1,1 +1,0 @@
-/** When added, this move control causes the mob to fly. */

@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Creates an exact copy of the item stack, including any custom data or properties."
+        },
+        {
+            "name": "returns",
+            "value": "Returns a copy of this item stack."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a set of players based on a set of conditions defined via the EntityQueryOptions set of filter criteria."
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "Additional options that can be used to filter the set of players returned."
+        },
+        {
+            "name": "returns",
+            "value": "A player array."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Represents the amount of damage that this item can take before breaking."
+        }
+    ]
+}

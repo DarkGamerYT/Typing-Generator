@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Plays a sound that only this particular player can hear."
+        },
+        {
+            "name": "param",
+            "param": "soundOptions",
+            "value": "Additional optional options for the sound."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "If specified, includes entities with a gamemode that matches the specified gamemode."
+        }
+    ]
+}

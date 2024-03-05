@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets an amplifier that may have been applied to this effect.\nSample values range typically from 0 to 4.\nExample: The effect 'Jump Boost II' will have an amplifier value of 1."
+        }
+    ]
+}

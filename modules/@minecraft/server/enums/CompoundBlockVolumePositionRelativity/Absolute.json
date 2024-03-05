@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The locations within the associated BlockVolume are in absolute world space"
+        }
+    ]
+}

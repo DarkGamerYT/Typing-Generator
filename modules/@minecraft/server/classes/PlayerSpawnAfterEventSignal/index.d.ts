@@ -1,1 +1,0 @@
-/** Registers an event when a player is spawned (or re-spawned after death) and fully ready within the world. */

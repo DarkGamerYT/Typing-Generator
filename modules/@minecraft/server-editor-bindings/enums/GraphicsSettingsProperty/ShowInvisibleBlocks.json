@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Manages rendering of invisible blocks (e.g., barrier, light, structure_void)."
+        }
+    ]
+}

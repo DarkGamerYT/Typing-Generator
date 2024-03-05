@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Changes a list of modifications to component state that are the effect of this triggered event."
+        },
+        {
+            "name": "param",
+            "param": "modifiers",
+            "value": "An updated list of modifications to component state."
+        }
+    ]
+}

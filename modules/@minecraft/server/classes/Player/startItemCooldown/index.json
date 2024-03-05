@@ -1,0 +1,24 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the item cooldown time for a particular cooldown category."
+        },
+        {
+            "name": "param",
+            "param": "itemCategory",
+            "value": "Specifies the cooldown category to retrieve the current cooldown for."
+        },
+        {
+            "name": "param",
+            "param": "tickDuration",
+            "value": "Duration in ticks of the item cooldown."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

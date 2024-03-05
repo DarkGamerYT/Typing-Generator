@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Compares this vector and another vector to one another."
+        },
+        {
+            "name": "param",
+            "param": "other",
+            "value": "Other vector to compare this vector to."
+        },
+        {
+            "name": "returns",
+            "value": "True if the two vectors are equal."
+        }
+    ]
+}

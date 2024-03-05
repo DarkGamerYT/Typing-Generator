@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Performs an HTTP request."
+        },
+        {
+            "name": "param",
+            "param": "config",
+            "value": "Contains an HTTP Request object with configuration data on the HTTP request."
+        },
+        {
+            "name": "returns",
+            "value": "An awaitable promise that contains the HTTP response."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

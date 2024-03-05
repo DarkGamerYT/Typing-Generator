@@ -1,1 +1,0 @@
-/** @remarks Cyan dye color. */

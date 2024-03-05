@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Method to register an event handler for what happens when an entity loads."
+        }
+    ]
+}

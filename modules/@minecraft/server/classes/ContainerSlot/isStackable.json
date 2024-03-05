@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns whether the item is stackable.\nAn item is considered stackable if the item's maximum stack size is greater than 1 and the item does not contain any custom data or properties."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid."
+        }
+    ]
+}

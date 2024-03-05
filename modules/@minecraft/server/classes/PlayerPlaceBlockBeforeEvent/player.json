@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Player that is placing the block for this event."
+        }
+    ]
+}

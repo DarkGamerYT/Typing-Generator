@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Dimension to potentially move the entity to.\nIf not specified, the entity is teleported within the dimension that they reside."
+        }
+    ]
+}

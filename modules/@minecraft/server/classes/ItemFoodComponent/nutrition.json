@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Represents how much nutrition this food item will give an entity when eaten."
+        }
+    ]
+}

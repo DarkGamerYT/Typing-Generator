@@ -1,0 +1,4 @@
+{
+    "beta": true,
+    "description": "An iterator that loops through available entity types."
+}

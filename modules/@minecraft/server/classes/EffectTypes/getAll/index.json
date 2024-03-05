@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets all effects."
+        },
+        {
+            "name": "returns",
+            "value": "A list of all effects."
+        }
+    ]
+}

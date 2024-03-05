@@ -1,0 +1,11 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Fade-out time for the title and subtitle, in ticks.\nThere are 20 ticks per second."
+        },
+        {
+            "value": "Use {@link TicksPerSecond} constant to convert between ticks and seconds."
+        }
+    ]
+}

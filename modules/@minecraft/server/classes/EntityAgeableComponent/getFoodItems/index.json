@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "List of items that can be fed to the entity.\nIncludes 'item' for the item name and 'growth' to define how much time it grows up by."
+        }
+    ]
+}

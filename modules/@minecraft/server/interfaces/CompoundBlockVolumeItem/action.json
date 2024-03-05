@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The 'action' defines how the block volume is represented in the compound block volume stack.\n'Add' creates a block volume which is positively selected.\n'Subtract' creates a block volume which represents a hole or negative space in the overall compound block volume."
+        }
+    ]
+}

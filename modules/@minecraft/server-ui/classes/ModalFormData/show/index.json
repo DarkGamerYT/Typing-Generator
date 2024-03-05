@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Creates and shows this modal popup form.\nReturns asynchronously when the player confirms or cancels the dialog."
+        },
+        {
+            "name": "param",
+            "param": "player",
+            "value": "Player to show this dialog to."
+        },
+        {
+            "name": "throws",
+            "value": "This function can throw errors."
+        }
+    ]
+}

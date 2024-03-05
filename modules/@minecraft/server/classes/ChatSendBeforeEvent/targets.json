@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Optional list of players that will receive this message.\nIf defined, this message is directly targeted to one or more players (i.e., is not broadcast.)"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets an item stack within a particular slot."
+        },
+        {
+            "name": "param",
+            "param": "slot",
+            "value": "Zero-based index of the slot to set an item at."
+        },
+        {
+            "name": "param",
+            "param": "itemStack",
+            "value": "Stack of items to place within the specified slot.\nSetting `itemStack` to undefined will clear the slot."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the container is invalid or if the `slot` index is out of bounds."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Controls whether mob griefing can happen in the world.\nExample: A Creeper explosion destroying blocks."
+        }
+    ]
+}

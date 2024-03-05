@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Checks if this reference to a block is still valid (for example, if the block is unloaded, references to that block will no longer be valid.)"
+        },
+        {
+            "name": "returns",
+            "value": "True if this block object is still working and valid."
+        }
+    ]
+}

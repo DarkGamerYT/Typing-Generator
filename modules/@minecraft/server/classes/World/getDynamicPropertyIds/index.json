@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets a set of dynamic property identifiers that have been set in this world."
+        },
+        {
+            "name": "returns",
+            "value": "A string array of active dynamic property identifiers."
+        }
+    ]
+}

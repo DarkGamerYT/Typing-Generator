@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a container slot.\nThis acts as a reference to a slot at the given index for this container."
+        },
+        {
+            "name": "param",
+            "param": "slot",
+            "value": "The index of the slot to return.\nThis index must be within the bounds of the container."
+        },
+        {
+            "name": "remarks",
+            "value": "Throws if the container is invalid or if the `slot` index is out of bounds."
+        }
+    ]
+}

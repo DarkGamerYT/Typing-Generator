@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "A `debug` output channel generally used during the development process of editor extensions.\nThis channel defaults to `hidden` in the log window (unless explicitly enabled).\nOnce your editor extension development process is complete, and you're ready to ship/share your extension - we generally recommend that you remove any references to this log channel to avoid a noisy experience for other users"
+        },
+        {
+            "name": "param",
+            "param": "message",
+            "value": "The message string to send to the log window"
+        }
+    ]
+}

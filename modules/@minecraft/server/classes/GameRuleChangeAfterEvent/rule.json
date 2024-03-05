@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The rule identifier pertaining to the changed {@link World.gameRules} property."
+        }
+    ]
+}

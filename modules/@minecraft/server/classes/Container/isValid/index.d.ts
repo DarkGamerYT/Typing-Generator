@@ -1,1 +1,0 @@
-/** @remarks Returns whether a container object (or the entity or block that this container is associated with) is still available for use in this context. */

@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The maximum stack size.\nThis value varies depending on the type of item.\nFor example, torches have a maximum stack size of 64, while eggs have a maximum stack size of 16."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid."
+        }
+    ]
+}

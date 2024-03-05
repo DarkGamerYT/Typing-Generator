@@ -1,1 +1,0 @@
-/** This component accents the movement of an entity. */

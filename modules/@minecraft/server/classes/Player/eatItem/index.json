@@ -1,0 +1,18 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Eats an item, providing the item's hunger and saturation effects to the player.\nCan only be used on food items."
+        },
+        {
+            "name": "param",
+            "param": "itemStack",
+            "value": "The item to eat."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the item is not a food item."
+        }
+    ]
+}

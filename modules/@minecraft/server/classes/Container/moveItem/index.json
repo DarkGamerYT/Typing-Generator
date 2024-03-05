@@ -1,0 +1,27 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Moves an item from one slot to another, potentially across containers."
+        },
+        {
+            "name": "param",
+            "param": "fromSlot",
+            "value": "Zero-based index of the slot to transfer an item from, on this container."
+        },
+        {
+            "name": "param",
+            "param": "toSlot",
+            "value": "Zero-based index of the slot to transfer an item to, on `toContainer`."
+        },
+        {
+            "name": "param",
+            "param": "toContainer",
+            "value": "Target container to transfer to. Note this can be the same container as the source."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if either this container or `toContainer` are invalid or if the `fromSlot` or `toSlot` indices out of bounds."
+        }
+    ]
+}

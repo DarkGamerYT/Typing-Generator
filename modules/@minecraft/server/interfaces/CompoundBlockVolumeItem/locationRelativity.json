@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The relativity enumeration determines whether the BlockVolume specified is positioned relative to the parent compound block volume origin,\nor in absolute world space."
+        }
+    ]
+}

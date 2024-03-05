@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets the dye that is on the text or undefined if the sign has not been dyed."
+        },
+        {
+            "name": "param",
+            "param": "side",
+            "value": "The side of the sign to read the dye from.\nIf not provided, this will return the dye from the front side of the sign."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

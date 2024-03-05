@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the state of mob simulation.\nIf set to `true`, mobs are paused."
+        }
+    ]
+}

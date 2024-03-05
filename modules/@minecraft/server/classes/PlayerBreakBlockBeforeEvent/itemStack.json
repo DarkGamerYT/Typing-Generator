@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The item stack that is being used to break the block, or undefined if empty hand."
+        }
+    ]
+}

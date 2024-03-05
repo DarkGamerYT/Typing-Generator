@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The amount by which an entity's age will increase when fed this item.\nValues usually range between 0 and 1."
+        }
+    ]
+}

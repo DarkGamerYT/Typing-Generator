@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Manually offset the 3D block cursor by given amount.\nDepending on the {@link CursorProperties.CursorControlMode} - this function may have no effect"
+        },
+        {
+            "name": "param",
+            "param": "offset",
+            "value": "Amount by which the 3D block cursor should be moved"
+        },
+        {
+            "name": "returns",
+            "value": "Return the newly modified position (or previous position if movement was restricted)"
+        }
+    ]
+}

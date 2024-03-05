@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This event fires when a projectile hits an entity."
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+{
+    "description": "The SelectionManager (accessible from the {@link ExtensionContext}) is responsible for the management of all {@link Selection} objects,\nand provides the user the ability to create new {@link Selection} objects for use within an extension."
+}

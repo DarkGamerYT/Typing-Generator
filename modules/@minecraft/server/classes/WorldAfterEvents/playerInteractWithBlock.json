@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "An event for when a player interacts with a block."
+        }
+    ]
+}

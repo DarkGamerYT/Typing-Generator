@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the current damage level of this particular item."
+        }
+    ]
+}

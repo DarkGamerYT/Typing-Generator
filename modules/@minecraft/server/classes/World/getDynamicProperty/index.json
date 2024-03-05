@@ -1,0 +1,26 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a property value."
+        },
+        {
+            "name": "param",
+            "param": "identifier",
+            "value": "The property identifier."
+        },
+        {
+            "name": "returns",
+            "value": "Returns the value for the property, or undefined if the property has not been set."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the given dynamic property identifier is not defined."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

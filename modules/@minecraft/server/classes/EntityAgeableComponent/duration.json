@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Amount of time before the entity grows up, -1 for always a baby."
+        }
+    ]
+}

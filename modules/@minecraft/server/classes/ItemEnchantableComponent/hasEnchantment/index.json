@@ -1,0 +1,21 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Checks whether an item stack has a given enchantment type."
+        },
+        {
+            "name": "param",
+            "param": "enchantmentType",
+            "value": "The enchantment type to check for."
+        },
+        {
+            "name": "returns",
+            "value": "Returns true if the item stack has the enchantment type."
+        },
+        {
+            "name": "throws",
+            "value": "ScriptItemEnchantmentUnknownIdError: Exception thrown if the enchantment type does not exist."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Represents the method for an HTTP HEAD request.\nHEAD requests are similar to a GET request,\nbut are commonly used to retrieve just the HTTP response headers from the specified URI, and not the body contents."
+        }
+    ]
+}

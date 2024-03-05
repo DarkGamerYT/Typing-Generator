@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Amount of time, in seconds, before the request times out and is abandoned."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the current weather."
+        },
+        {
+            "name": "returns",
+            "value": "Returns a {@link WeatherType} that explains the broad category of weather that is currently going on."
+        }
+    ]
+}

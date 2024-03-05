@@ -1,0 +1,14 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Damage caused from a non-Entity explosion. For example, an exploding bed."
+        },
+        {
+            "value": ""
+        },
+        {
+            "value": "Note that when used in {@link Entity.applyDamage}, the armor will be damaged."
+        }
+    ]
+}

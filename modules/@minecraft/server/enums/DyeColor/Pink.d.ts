@@ -1,1 +1,0 @@
-/** @remarks Pink dye color. */

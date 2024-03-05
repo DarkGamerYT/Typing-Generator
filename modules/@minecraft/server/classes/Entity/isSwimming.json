@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Whether the entity is in the swimming state.\nFor example, a player using the swim action or a fish in water."
+        }
+    ]
+}

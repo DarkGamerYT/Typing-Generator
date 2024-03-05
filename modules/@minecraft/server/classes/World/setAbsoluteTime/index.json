@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the world time."
+        },
+        {
+            "name": "param",
+            "param": "absoluteTime",
+            "value": "The world time, in ticks."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the dye color of the text."
+        },
+        {
+            "name": "param",
+            "param": "color",
+            "value": "The dye color to apply to the sign or undefined to clear the dye on the sign."
+        },
+        {
+            "name": "param",
+            "param": "side",
+            "value": "The side of the sign the color will be set on.\nIf not provided, the color will be set on the front side of the sign."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

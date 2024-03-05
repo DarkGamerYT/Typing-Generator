@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Controls how frequently random ticks occur.\nA value of 0 or less will disable random ticks. The default value is 1."
+        }
+    ]
+}

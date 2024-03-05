@@ -1,0 +1,4 @@
+{
+    "beta": true,
+    "description": "Provides the functionality for registering custom components for blocks."
+}

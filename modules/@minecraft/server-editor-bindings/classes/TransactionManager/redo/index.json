@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Perform an redo operation.\nThis will take the last transaction record on the redo stack and store the current world state and then apply the changes in the record.\nThis will reduce the redo record stack by one.\n\nThe transaction record affected by this operation will be transferred to the undo stack in case the creator decides to undo it"
+        }
+    ]
+}

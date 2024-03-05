@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Identifier of the type of the entity - for example, 'minecraft:skeleton'.\nThis property is accessible even if {@link Entity.isValid} is false."
+        }
+    ]
+}

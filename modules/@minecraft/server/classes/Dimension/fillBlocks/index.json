@@ -1,0 +1,38 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Fills an area between begin and end with block of type block."
+        },
+        {
+            "name": "param",
+            "param": "begin",
+            "value": "The lower northwest starting corner of the area."
+        },
+        {
+            "name": "param",
+            "param": "end",
+            "value": "The upper southeast ending corner of the area."
+        },
+        {
+            "name": "param",
+            "param": "block",
+            "value": "Type of block to fill the volume with."
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "A set of additional options, such as a matching block to potentially replace this fill block with."
+        },
+        {
+            "name": "returns",
+            "value": "Returns number of blocks placed."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

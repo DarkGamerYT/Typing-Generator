@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Adds/removes experience to/from the Player and returns the current experience of the Player."
+        },
+        {
+            "name": "param",
+            "param": "amount",
+            "value": "Amount of experience to add. Note that this can be negative.\nMin/max bounds at -2^24 ~ 2^24"
+        },
+        {
+            "name": "returns",
+            "value": "Returns the current experience of the Player."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

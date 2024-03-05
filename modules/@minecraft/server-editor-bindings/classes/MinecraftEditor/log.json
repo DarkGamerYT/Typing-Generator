@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "A global instance of the log output class object.\nThis is not contextualized to any particular player, and any messages sent to this instance will be broadcast to all connected editor client sessions"
+        }
+    ]
+}

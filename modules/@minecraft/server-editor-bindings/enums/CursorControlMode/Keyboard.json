@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Using Keyboard mode will remove the dependence of the 3D block cursor on the player mouse position.\nThe 3D block cursor can be positioned using the keyboard (or the Cursor move methods on the cursor object) and the position will not be reset if the mouse is moved"
+        }
+    ]
+}

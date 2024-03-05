@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The error channel is generally used when the editor extension experiences an error (either a program error in executing logic unexpectedly, or an error in the input or output to/from a player).\nUse this channel sparingly - it's meant to communicate important problems to the player"
+        },
+        {
+            "name": "param",
+            "param": "message",
+            "value": "The message string to send to the log window"
+        }
+    ]
+}

@@ -1,1 +1,0 @@
-/** @remarks A {@link Vector3} that represents the smallest corner of the rectangle */

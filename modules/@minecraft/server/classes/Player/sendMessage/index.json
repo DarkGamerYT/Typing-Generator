@@ -1,0 +1,32 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sends a message to the player."
+        },
+        {
+            "name": "param",
+            "param": "message",
+            "value": "The message to be displayed."
+        },
+        {
+            "name": "throws",
+            "value": "This method can throw if the provided {@link RawMessage} is in an invalid format.\nFor example, if an empty `name` string is provided to `score`."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "translateWith.js"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "score.js"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "rawtextTranslateWith.js"
+        }
+    ]
+}

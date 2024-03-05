@@ -1,1 +1,0 @@
-/** @remarks Sets the time to night, which is time of the day 13,000 (or the equivalent of 7:00pm) in Minecraft. */

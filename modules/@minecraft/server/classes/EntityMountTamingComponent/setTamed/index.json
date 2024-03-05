@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets this rideable entity as tamed."
+        },
+        {
+            "name": "param",
+            "param": "showParticles",
+            "value": "Whether to show effect particles when this entity is tamed."
+        }
+    ]
+}

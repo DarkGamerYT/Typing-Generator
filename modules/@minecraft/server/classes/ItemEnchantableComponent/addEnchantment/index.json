@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Adds an enchantment to the item stack."
+        },
+        {
+            "name": "param",
+            "param": "enchantment",
+            "value": "The enchantment interface to be added."
+        },
+        {
+            "name": "throws",
+            "value": "ScriptItemEnchantmentUnknownIdError: Exception thrown if the enchantment type does not exist.\n\nScriptItemEnchantmentLevelOutOfBoundsError: Exception thrown if the enchantment level is outside the allowable range for the given enchantment type.\n\nScriptItemEnchantmentTypeNotCompatibleError: Exception thrown if the enchantment is not compatible with the item stack."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

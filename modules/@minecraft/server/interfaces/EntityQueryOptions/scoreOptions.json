@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets/sets a collection of EntityQueryScoreOptions objects with filters for specific scoreboard objectives."
+        }
+    ]
+}

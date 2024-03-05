@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This is generally the default move mode for the 3D block cursor.\nThe 3D block cursor can be positioned using the keyboard (or the Cursor move methods on the cursor object) but the position will be reset to the block location under the players mouse position if any mouse movement is detected."
+        }
+    ]
+}

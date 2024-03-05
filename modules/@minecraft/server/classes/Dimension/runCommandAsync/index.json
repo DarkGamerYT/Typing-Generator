@@ -1,0 +1,29 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Runs a particular command asynchronously from the context of the broader dimension."
+        },
+        {
+            "value": "Note that there is a maximum queue of 128 asynchronous commands that can be run in a given tick."
+        },
+        {
+            "name": "param",
+            "param": "commandString",
+            "value": "Command to run. Note that command strings should not start with slash."
+        },
+        {
+            "name": "returns",
+            "value": "For commands that return data, returns a CommandResult with an indicator of command results."
+        },
+        {
+            "name": "throws",
+            "value": "Throws an exception if the command fails due to incorrect parameters or command syntax, or in erroneous cases for the command.\nNote that in many cases, if the command does not operate (e.g., a target selector found no matches), this method will not throw an exception."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the {@link Block} west this block (negative in the X direction)."
+        },
+        {
+            "name": "param",
+            "param": "steps",
+            "value": "Number of steps west to step before returning."
+        }
+    ]
+}

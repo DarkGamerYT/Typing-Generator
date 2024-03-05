@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "If defined, entities that match this type are included."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Creates a copy of this permutation."
+        },
+        {
+            "name": "returns",
+            "value": "A copy of the permutation."
+        }
+    ]
+}

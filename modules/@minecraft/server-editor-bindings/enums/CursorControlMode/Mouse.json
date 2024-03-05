@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The Mouse movement mode will disable keyboard or manual 3D block cursor movement and make the 3D block cursor only react to player mouse movement"
+        }
+    ]
+}

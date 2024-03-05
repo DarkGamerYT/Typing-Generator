@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Will cause a title to show up on the player's on screen display. Will clear the title if set to empty string.\nYou can optionally specify an additional subtitle as well as fade in, stay and fade out times."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "setTitle.js"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "setTitleRawtext.js"
+        }
+    ]
+}

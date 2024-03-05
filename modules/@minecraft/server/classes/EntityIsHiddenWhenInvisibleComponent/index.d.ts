@@ -1,1 +1,0 @@
-/** When added, this component signifies that this entity can hide from hostile mobs while invisible. */

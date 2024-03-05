@@ -1,0 +1,21 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns an entity based on the provided id."
+        },
+        {
+            "name": "param",
+            "param": "id",
+            "value": "The id of the entity."
+        },
+        {
+            "name": "returns",
+            "value": "The requested entity object."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the given entity id is invalid."
+        }
+    ]
+}

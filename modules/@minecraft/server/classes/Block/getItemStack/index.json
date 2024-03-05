@@ -1,0 +1,28 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Creates a prototype item stack based on this block that can be used with Container/ContainerSlot APIs."
+        },
+        {
+            "name": "param",
+            "param": "amount",
+            "value": "Number of instances of this block to place in the itemstack."
+        },
+        {
+            "name": "param",
+            "param": "withData",
+            "value": "Whether additional data facets of the itemstack are included."
+        },
+        {
+            "name": "returns",
+            "value": "An itemStack with the specified amount of items and data.\nReturns undefined if block type is incompatible."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

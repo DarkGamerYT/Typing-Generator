@@ -1,1 +1,0 @@
-/** When added, this component signifies that this entity this currently on fire. */

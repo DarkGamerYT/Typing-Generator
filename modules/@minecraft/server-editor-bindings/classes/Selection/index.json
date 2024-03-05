@@ -1,0 +1,3 @@
+{
+    "description": "The Selection represents a volume in space, which may potentially be made up of one or more block locations.\nThese block locations do not need to be contiguous, and a Selection represent an irregular shape.\nIt's important to note that a Selection is only a representation of the volume shape space - and does NOT represent the actual contents of the space."
+}

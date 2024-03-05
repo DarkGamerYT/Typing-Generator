@@ -1,1 +1,0 @@
-/** @remarks Silver dye color. */

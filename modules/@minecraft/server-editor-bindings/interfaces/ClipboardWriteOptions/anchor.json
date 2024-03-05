@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The anchor is a unit vector representation of the side or corner of the Clipboard Item to be written to the world.\n- `{0, 0, 0}` represents the center of the Clipboard item.\n- `{0, 1, 0}` represents the top.\n- `{-1, -1, -1}` represents the bottom/back/left corner, etc.\nThe anchor is used in conjunction with the item size to determine the object relative anchor point where the object will be applied in the world.\nValues for the X/Y/Z components should be within the range `(-1 <= X/Y/Z <=1)`"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This is an internal command which interfaces with the native C++ extension bindings and should not be used by creators.\nUsing this command directly will not provide any of the additional functionality and wrappings that the TypeScript layer will provide.\nCreators should use the TypeScript binding `registerEditorExtension` instead"
+        },
+        {
+            "name": "param",
+            "param": "extensionName",
+            "value": "Unique name of the editor extension being registered"
+        },
+        {
+            "name": "param",
+            "param": "activationFunction",
+            "value": "A code closure which is called during the activation process and is responsible for setting up all of the extension internal settings and UI definitions"
+        },
+        {
+            "name": "param",
+            "param": "shutdownFunction",
+            "value": "A code closure which is called during the deactivation process (when the player disconnects) and is responsible for cleaning up any settings or allocations"
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "{@link ExtensionOptionalParameters} describes an optional object which contains a number of optional parameters which is used to register an extension with additional information"
+        }
+    ]
+}

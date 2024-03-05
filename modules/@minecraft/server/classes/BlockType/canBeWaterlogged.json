@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Represents whether this type of block can be waterlogged."
+        }
+    ]
+}

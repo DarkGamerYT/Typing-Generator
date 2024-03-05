@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Controls whether respawn blocks (e.g. Bed, Respawn Anchor) explode in other dimensions."
+        }
+    ]
+}

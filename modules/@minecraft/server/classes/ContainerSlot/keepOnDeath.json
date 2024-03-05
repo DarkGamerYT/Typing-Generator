@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets or sets whether the item is kept on death."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid."
+        }
+    ]
+}

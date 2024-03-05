@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Remove the volume information that was last pushed to the volume stack.\nThis will reduce the stack item length by 1"
+        }
+    ]
+}

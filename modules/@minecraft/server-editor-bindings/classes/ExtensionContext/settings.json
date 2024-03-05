@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The instance of the players Settings Manager and the contract through which the settings for the player can be modified."
+        }
+    ]
+}

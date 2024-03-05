@@ -1,0 +1,27 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Swaps items between two different slots within containers."
+        },
+        {
+            "name": "param",
+            "param": "slot",
+            "value": "Zero-based index of the slot to swap from this container."
+        },
+        {
+            "name": "param",
+            "param": "otherSlot",
+            "value": "Zero-based index of the slot to swap with."
+        },
+        {
+            "name": "param",
+            "param": "otherContainer",
+            "value": "Target container to swap with. Note this can be the same container as this source."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if either this container or `otherContainer` are invalid or if the `slot` or `otherSlot` are out of bounds."
+        }
+    ]
+}

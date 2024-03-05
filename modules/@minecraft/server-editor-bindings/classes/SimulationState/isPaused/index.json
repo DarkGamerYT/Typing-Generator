@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns `true` if mob simulation is paused."
+        }
+    ]
+}

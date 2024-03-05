@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Return the number of transaction records on the redo stack."
+        }
+    ]
+}

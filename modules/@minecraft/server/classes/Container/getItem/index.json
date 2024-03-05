@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets an {@link ItemStack} of the item at the specified slot.\nIf the slot is empty, returns `undefined`.\nThis method does not change or clear the contents of the specified slot. To get a reference to a particular slot, see {@link Container.getSlot}."
+        },
+        {
+            "name": "param",
+            "param": "slot",
+            "value": "Zero-based index of the slot to retrieve items from."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the container is invalid or if the `slot` index is out of bounds."
+        }
+    ]
+}

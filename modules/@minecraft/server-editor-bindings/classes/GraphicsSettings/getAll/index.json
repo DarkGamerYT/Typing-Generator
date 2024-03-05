@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Retrieves all graphics settings properties and their values."
+        },
+        {
+            "name": "returns",
+            "value": "Returns a property value map for all available properties."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Will call your function every time an entity is removed from the game."
+        }
+    ]
+}

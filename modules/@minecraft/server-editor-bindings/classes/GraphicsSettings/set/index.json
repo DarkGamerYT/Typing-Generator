@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Modifies a graphics settings property value."
+        },
+        {
+            "name": "param",
+            "param": "property",
+            "value": "Property identifier."
+        },
+        {
+            "name": "param",
+            "param": "value",
+            "value": "New property value."
+        }
+    ]
+}

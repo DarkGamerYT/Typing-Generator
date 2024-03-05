@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Adds the following variables to Molang:\n- `<variable_name>.r` - Red color value [0-1]\n- `<variable_name>.g` - Green color value [0-1]\n- `<variable_name>.b` - Blue color value [0-1]"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

@@ -1,1 +1,0 @@
-/** @remarks Clears the set of dynamic properties declared for this behavior pack within the world. */

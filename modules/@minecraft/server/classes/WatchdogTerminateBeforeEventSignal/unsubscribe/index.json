@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Removes a callback from being called when a script runtime is being terminated due to a violation of the performance watchdog system."
+        }
+    ]
+}

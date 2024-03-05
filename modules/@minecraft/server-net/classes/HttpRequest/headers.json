@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "A collection of HTTP headers to add to the outbound request."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Clears all dynamic properties that have been set on this item stack."
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+{
+    "description": "Represents a configurable state value of a block instance.\nFor example, the facing direction of stairs is accessible as a block state."
+}

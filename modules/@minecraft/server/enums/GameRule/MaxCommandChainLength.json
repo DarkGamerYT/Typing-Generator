@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The maximum number of chained commands that can execute per tick."
+        }
+    ]
+}

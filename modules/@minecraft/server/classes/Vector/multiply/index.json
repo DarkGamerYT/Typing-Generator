@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the component-wise product of these vectors."
+        }
+    ]
+}

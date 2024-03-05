@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Given a type identifier and an optional set of properties, will return a BlockPermutation object that is usable in other block APIs (e.g., {@link Block.setPermutation})"
+        },
+        {
+            "name": "param",
+            "param": "blockName",
+            "value": "Identifier of the block to check."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

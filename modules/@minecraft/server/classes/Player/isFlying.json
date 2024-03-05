@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Whether the player is flying. For example, in Creative or Spectator mode."
+        }
+    ]
+}

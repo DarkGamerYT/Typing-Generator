@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Set whether or not the selection volume is visible to the client user.\nNOTE: Use this option carefully - Selection volumes are generally server-only, \n but marking a volume as visible causes the volume (and all volume operations) to be synchronized with the client game\n which can potentially generate excessive network traffic."
+        }
+    ]
+}

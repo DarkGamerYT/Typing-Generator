@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Controls whether item tags are shown. E.g. 'Can Place On', 'Can Destroy', item lock icons, etc."
+        }
+    ]
+}

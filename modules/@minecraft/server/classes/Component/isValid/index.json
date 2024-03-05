@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "A component is considered valid if its owner is valid, in addition to any addition to any additional validation required by the component."
+        },
+        {
+            "name": "returns",
+            "value": "Whether the component is valid."
+        }
+    ]
+}

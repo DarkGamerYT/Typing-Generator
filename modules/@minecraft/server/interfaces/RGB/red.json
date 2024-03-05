@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Determines a color's red component.\nValid values are between 0 and 1.0."
+        }
+    ]
+}

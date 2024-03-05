@@ -1,1 +1,0 @@
-/** @remarks White dye color. */

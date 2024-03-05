@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "If set to true, cancels the termination of the script runtime.\nNote that depending on server configuration settings, cancellation of the termination may not be allowed."
+        }
+    ]
+}

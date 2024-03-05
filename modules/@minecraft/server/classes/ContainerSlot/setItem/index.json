@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the given ItemStack in the slot, replacing any existing item."
+        },
+        {
+            "name": "param",
+            "param": "itemStack",
+            "value": "The ItemStack to be placed in the slot."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Return a bounding rectangle that contains all of the volumes within the selection (the bounding rectangle does NOT represent the shape of the selection,\nonly the largest rectangle that will fit all of the volumes)"
+        }
+    ]
+}

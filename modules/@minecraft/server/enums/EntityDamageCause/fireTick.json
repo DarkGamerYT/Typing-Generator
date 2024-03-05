@@ -1,0 +1,14 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Damage caused by burning over time."
+        },
+        {
+            "value": ""
+        },
+        {
+            "value": "Note that when used in {@link Entity.applyDamage}, a different damage sound will be play."
+        }
+    ]
+}

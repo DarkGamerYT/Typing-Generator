@@ -1,0 +1,27 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Queues an additional music track for players. If a track is not playing, a music track will play."
+        },
+        {
+            "name": "param",
+            "param": "trackId",
+            "value": "Identifier of the music track to play."
+        },
+        {
+            "name": "param",
+            "param": "musicOptions",
+            "value": "Additional options for the music track."
+        },
+        {
+            "name": "throws",
+            "value": "An error will be thrown if volume is less than 0.0.\nAn error will be thrown if fade is less than 0.0."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Retrieves a custom base color used for the sign text."
+        },
+        {
+            "name": "returns",
+            "value": "Color that is used as the base color for sign text."
+        }
+    ]
+}

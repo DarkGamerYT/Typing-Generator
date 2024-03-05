@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Whether to check whether blocks will block the entity after teleport."
+        }
+    ]
+}

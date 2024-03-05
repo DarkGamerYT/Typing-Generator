@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Subscribes the specified callback to a player dimension change after event."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Effect type for the given identifier."
+        },
+        {
+            "name": "returns",
+            "value": "Effect type for the given identifier or undefined if the effect does not exist."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

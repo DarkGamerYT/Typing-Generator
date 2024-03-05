@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This is an internal-facing method for posting a system message to downstream clients."
+        }
+    ]
+}

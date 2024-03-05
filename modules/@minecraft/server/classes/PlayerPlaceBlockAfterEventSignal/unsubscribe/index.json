@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Removes a callback from being called when an block is placed by a player."
+        }
+    ]
+}

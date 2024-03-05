@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This event fires when a world.gameRules property has changed."
+        }
+    ]
+}

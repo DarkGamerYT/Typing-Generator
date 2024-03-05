@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This function will be called when an entity steps onto the block that this custom component is bound to."
+        }
+    ]
+}

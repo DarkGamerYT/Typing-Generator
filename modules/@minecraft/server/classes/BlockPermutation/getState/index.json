@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets a state for the permutation."
+        },
+        {
+            "name": "param",
+            "param": "stateName",
+            "value": "Name of the block state who's value is to be returned."
+        },
+        {
+            "name": "returns",
+            "value": "Returns the state if the permutation has it, else `undefined`."
+        }
+    ]
+}

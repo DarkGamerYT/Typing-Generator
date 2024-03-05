@@ -1,0 +1,27 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Creates a new instance of a stack of items for use in the world."
+        },
+        {
+            "name": "param",
+            "param": "itemType",
+            "value": "Type of item to create.\nSee the {@link MinecraftItemTypes} enumeration for a list of standard item types in Minecraft experiences."
+        },
+        {
+            "name": "param",
+            "param": "amount",
+            "value": "Number of items to place in the stack, between 1-255.\nThe provided value will be clamped to the item's maximum stack size.\nNote that certain items can only have one item in the stack."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if `itemType` is invalid, or if `amount` is outside the range of 1-255."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

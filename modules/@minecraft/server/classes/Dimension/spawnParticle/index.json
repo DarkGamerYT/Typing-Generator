@@ -1,0 +1,28 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Creates a new particle emitter at a specified location in the world."
+        },
+        {
+            "name": "param",
+            "param": "effectName",
+            "value": "Identifier of the particle to create."
+        },
+        {
+            "name": "param",
+            "param": "location",
+            "value": "The location at which to create the particle emitter."
+        },
+        {
+            "name": "param",
+            "param": "molangVariables",
+            "value": "A set of optional, customizable variables that can be adjusted for this particle."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The block radius from world spawn that a player is allowed to spawn in.\nDoes not affect Adventure mode.\nThe default value is 10 blocks."
+        }
+    ]
+}

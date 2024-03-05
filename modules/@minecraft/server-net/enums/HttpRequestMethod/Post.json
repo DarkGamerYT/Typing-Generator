@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Represents the method for an HTTP POST request.\nPOST requests are commonly used to create a new resource that is a subordinate of the specified URI."
+        }
+    ]
+}

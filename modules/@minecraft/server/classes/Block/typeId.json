@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Identifier of the type of block for this block."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the MoonPhase for the current time."
+        }
+    ]
+}

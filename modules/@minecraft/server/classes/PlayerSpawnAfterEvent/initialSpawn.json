@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "If true, this is the initial spawn of a player after joining the game."
+        }
+    ]
+}

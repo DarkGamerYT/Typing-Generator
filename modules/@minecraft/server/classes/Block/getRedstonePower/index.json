@@ -1,0 +1,18 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the net redstone power of this block."
+        },
+        {
+            "name": "remarks",
+            "value": "Returns undefined if redstone power is not applicable to this block."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

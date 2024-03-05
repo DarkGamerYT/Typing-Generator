@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the time of day."
+        },
+        {
+            "name": "returns",
+            "value": "The time of day, in ticks, between 0 and 24000."
+        }
+    ]
+}

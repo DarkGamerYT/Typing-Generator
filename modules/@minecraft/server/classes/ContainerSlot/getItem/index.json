@@ -1,0 +1,16 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Creates an exact copy of the item stack, including any custom data or properties."
+        },
+        {
+            "name": "returns",
+            "value": "Returns a copy of the item in the slot.\nReturns undefined if the slot is empty."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid."
+        }
+    ]
+}

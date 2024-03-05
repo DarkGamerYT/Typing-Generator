@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns true if the record-playing block is currently playing a record."
+        }
+    ]
+}

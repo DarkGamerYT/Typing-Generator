@@ -1,0 +1,23 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets a numeric (decimal) value within the Molang variable map."
+        },
+        {
+            "name": "param",
+            "param": "variableName",
+            "value": "Name of the float-based number to set."
+        },
+        {
+            "name": "param",
+            "param": "number",
+            "value": "Value for the Molang-based variable to set."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

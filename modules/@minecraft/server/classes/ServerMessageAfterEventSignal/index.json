@@ -1,0 +1,4 @@
+{
+    "beta": true,
+    "description": "Manages callbacks that are message passing to a server.\nThis event is not currently fully implemented, and should not be used."
+}

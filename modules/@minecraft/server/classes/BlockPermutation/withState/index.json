@@ -1,0 +1,23 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a derived BlockPermutation with a specific property set."
+        },
+        {
+            "name": "param",
+            "param": "name",
+            "value": "Identifier of the block property."
+        },
+        {
+            "name": "param",
+            "param": "value",
+            "value": "Value of the block property."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

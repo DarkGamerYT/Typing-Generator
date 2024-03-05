@@ -1,0 +1,14 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Damage caused by physically touching an Entity or Block. For example, touching a Sweet Berry bush or Pufferfish."
+        },
+        {
+            "value": ""
+        },
+        {
+            "value": "Note that when used in {@link Entity.applyDamage}, the armor will be damaged."
+        }
+    ]
+}

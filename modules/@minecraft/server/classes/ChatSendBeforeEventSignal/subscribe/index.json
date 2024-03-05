@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Adds a callback that will be called before new chat messages are sent."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "customCommands.js"
+        }
+    ]
+}

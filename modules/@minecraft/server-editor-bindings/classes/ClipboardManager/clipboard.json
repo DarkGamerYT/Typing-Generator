@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The primary {@link ClipboardItem} object is always present (even if it's empty) and cannot be deleted.\nThis object represents the main ClipboardItem object which is always accessible through the UI for cut/paste operations"
+        }
+    ]
+}

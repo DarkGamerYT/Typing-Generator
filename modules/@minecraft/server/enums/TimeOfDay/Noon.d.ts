@@ -1,1 +1,0 @@
-/** @remarks Sets the time to noon, which is time of the day 6,000 in Minecraft. */

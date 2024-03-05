@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Value of this particular ground offset.\nNote that this value is effectively read only; setting the ground offset value will not have an impact on the related entity."
+        }
+    ]
+}

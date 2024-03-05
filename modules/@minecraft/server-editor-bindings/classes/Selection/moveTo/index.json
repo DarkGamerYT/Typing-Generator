@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Move the selection to an absolute world location (causing all of the volumes within the selection to be moved to a location relative to the world location)"
+        },
+        {
+            "name": "param",
+            "param": "location",
+            "value": "The world location to which to relocate the selection"
+        },
+        {
+            "name": "returns",
+            "value": "The newly moved position"
+        }
+    ]
+}

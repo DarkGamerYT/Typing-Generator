@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets a default spawn location for all players."
+        },
+        {
+            "name": "param",
+            "param": "spawnLocation",
+            "value": "Location of the spawn point. Note that this is assumed to be within the overworld dimension."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the provided spawn location is out of bounds."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Distance in blocks at which the 'spring' effect starts acting to keep this entity close to the entity that leashed it."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Removes a callback that will be called when a player leaves the world."
+        }
+    ]
+}

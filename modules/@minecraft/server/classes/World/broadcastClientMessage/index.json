@@ -1,0 +1,19 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "A method that is internal-only, used for broadcasting specific messages between client and server."
+        },
+        {
+            "name": "param",
+            "param": "id",
+            "value": "The message identifier."
+        },
+        {
+            "name": "param",
+            "param": "value",
+            "value": "The message."
+        }
+    ]
+}

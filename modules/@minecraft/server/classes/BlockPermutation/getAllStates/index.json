@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns all available block states associated with this block."
+        },
+        {
+            "name": "returns",
+            "value": "Returns the list of all of the block states that the permutation has."
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "beta": true,
+    "description": "Manages callbacks that are connected to an event that fires before chat messages are sent."
+}

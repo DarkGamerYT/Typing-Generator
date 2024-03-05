@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Discard any pending tracked changes.\nThis does not affect the current open transaction contents, only the pending tracked block operations"
+        },
+        {
+            "name": "returns",
+            "value": "Returns the number of change requests that were discarded"
+        }
+    ]
+}

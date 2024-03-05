@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "A set of items that can specifically heal this entity."
+        },
+        {
+            "name": "returns",
+            "value": "Entity that this component is associated with."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This event fires for each BlockLocation destroyed by an explosion.\nIt is fired after the blocks have already been destroyed."
+        }
+    ]
+}

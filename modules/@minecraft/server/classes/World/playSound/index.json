@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Plays a sound for all players."
+        },
+        {
+            "name": "throws",
+            "value": "An error will be thrown if volume is less than 0.0.\nAn error will be thrown if fade is less than 0.0.\nAn error will be thrown if pitch is less than 0.01.\nAn error will be thrown if volume is less than 0.0."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

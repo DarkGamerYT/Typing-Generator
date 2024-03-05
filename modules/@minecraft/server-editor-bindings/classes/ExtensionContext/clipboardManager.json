@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This is used to access the players Clipboard Manager and the main interface through which the player can create, modify and apply clipboard items"
+        }
+    ]
+}

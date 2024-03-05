@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Identifier of the type of items for the stack.\nIf a namespace is not specified, 'minecraft:' is assumed.\nExamples include 'wheat' or 'apple'."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid."
+        }
+    ]
+}

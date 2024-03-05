@@ -1,0 +1,21 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Checks whether an enchantment can be added to the item stack."
+        },
+        {
+            "name": "param",
+            "param": "enchantment",
+            "value": "The enchantment interface to be added."
+        },
+        {
+            "name": "returns",
+            "value": "Returns true if the enchantment can be added to the item stack."
+        },
+        {
+            "name": "throws",
+            "value": "ScriptItemEnchantmentUnknownIdError: Exception thrown if the enchantment type does not exist.\n\nScriptItemEnchantmentLevelOutOfBoundsError: Exception thrown if the enchantment level is outside the allowable range for the given enchantment type."
+        }
+    ]
+}

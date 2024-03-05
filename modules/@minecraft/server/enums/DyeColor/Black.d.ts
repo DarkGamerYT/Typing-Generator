@@ -1,1 +1,0 @@
-/** @remarks Black dye color. */

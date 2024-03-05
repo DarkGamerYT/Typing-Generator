@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the value of variable that has been configured in a dedicated server configuration JSON file."
+        }
+    ]
+}

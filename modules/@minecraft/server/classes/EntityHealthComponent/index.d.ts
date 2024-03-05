@@ -1,1 +1,0 @@
-/** Defines the health properties of an entity. */

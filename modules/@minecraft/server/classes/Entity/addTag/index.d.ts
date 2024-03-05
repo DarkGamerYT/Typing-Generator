@@ -1,6 +1,5 @@
 /**
- * @remarks
- * Adds a specified tag to an entity.
+ * @remarks Adds a specified tag to an entity.
  *
  * This function can't be called in read-only mode.
  *

@@ -1,1 +1,0 @@
-/** @remarks Returns the {@link Vector3} of the center of this block on the X and Z axis. */

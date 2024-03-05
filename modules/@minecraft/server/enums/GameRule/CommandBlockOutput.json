@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Whether command blocks should notify admins when they perform commands."
+        }
+    ]
+}

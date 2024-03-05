@@ -1,0 +1,4 @@
+{
+    "beta": true,
+    "description": "Contains a set of events that will be raised for a block.\nThis object must be bound using the BlockRegistry."
+}

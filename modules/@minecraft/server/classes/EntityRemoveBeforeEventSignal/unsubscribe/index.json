@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Unsubscribes your function from subsequent calls when an entity is being removed."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Plays a music track that only this particular player can hear."
+        },
+        {
+            "name": "param",
+            "param": "trackId",
+            "value": "Identifier of the music track to play."
+        },
+        {
+            "name": "param",
+            "param": "musicOptions",
+            "value": "Additional options for the music track."
+        }
+    ]
+}

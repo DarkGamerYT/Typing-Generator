@@ -1,1 +1,0 @@
-/** Contains additional options for an entity raycast operation. */

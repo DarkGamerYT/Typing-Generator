@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns true if this block is an air block (i.e., empty space)."
+        }
+    ]
+}

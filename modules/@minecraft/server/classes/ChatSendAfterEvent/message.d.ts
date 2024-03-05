@@ -1,1 +1,0 @@
-/** @remarks Message that is being broadcast. */

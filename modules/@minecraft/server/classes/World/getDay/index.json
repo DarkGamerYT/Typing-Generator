@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the current day."
+        },
+        {
+            "name": "returns",
+            "value": "The current day, determined by the world time divided by the number of ticks per day.\nNew worlds start at day 0."
+        }
+    ]
+}

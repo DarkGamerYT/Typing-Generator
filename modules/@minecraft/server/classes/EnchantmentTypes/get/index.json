@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Retrieves an enchantment with the specified identifier."
+        },
+        {
+            "name": "param",
+            "param": "enchantmentId",
+            "value": "Identifier of the enchantment. For example, 'minecraft:flame'."
+        },
+        {
+            "name": "returns",
+            "value": "If available, returns an EnchantmentType object that represents the specified enchantment."
+        }
+    ]
+}

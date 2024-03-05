@@ -1,0 +1,21 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns whether this item stack can be stacked with the given `itemStack`.\nThis is determined by comparing the item type and any custom data and properties associated with the item stacks.\nThe amount of each item stack is not taken into consideration."
+        },
+        {
+            "name": "param",
+            "param": "itemStack",
+            "value": "ItemStack to check stacking compatability with."
+        },
+        {
+            "name": "returns",
+            "value": "True if the Item Stack is stackable with the itemStack passed in."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid."
+        }
+    ]
+}

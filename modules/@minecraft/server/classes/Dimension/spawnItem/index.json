@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Creates a new itemstack as an entity at the specified location."
+        },
+        {
+            "name": "param",
+            "param": "location",
+            "value": "The location at which to create the item stack."
+        },
+        {
+            "name": "returns",
+            "value": "Newly created itemstack entity at the specified location."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

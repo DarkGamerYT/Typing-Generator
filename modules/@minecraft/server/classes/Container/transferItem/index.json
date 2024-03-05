@@ -1,0 +1,26 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Moves an item from one slot to another container, or to the first available slot in the same container."
+        },
+        {
+            "name": "param",
+            "param": "fromSlot",
+            "value": "Zero-based index of the slot to transfer an item from, on this container."
+        },
+        {
+            "name": "param",
+            "param": "toContainer",
+            "value": "Target container to transfer to. Note this can be the same container as the source."
+        },
+        {
+            "name": "returns",
+            "value": "An itemStack with the items that couldn't be transferred.\nReturns undefined if all items were transferred."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if either this container or `toContainer` are invalid or if the `fromSlot` or `toSlot` indices out of bounds."
+        }
+    ]
+}

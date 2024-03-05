@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets all enchantments on the item stack."
+        },
+        {
+            "name": "returns",
+            "value": "Returns a list of enchantments on the item stack."
+        }
+    ]
+}

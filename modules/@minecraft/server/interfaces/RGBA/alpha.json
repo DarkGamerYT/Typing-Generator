@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Determines a color's alpha (opacity) component.\nValid values are between 0 (transparent) and 1.0 (opaque)."
+        }
+    ]
+}

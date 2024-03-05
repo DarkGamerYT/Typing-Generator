@@ -1,0 +1,10 @@
+{
+    "description": "Builds a simple two-button modal dialog.",
+    "comments": [
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

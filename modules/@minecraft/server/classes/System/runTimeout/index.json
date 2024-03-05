@@ -1,0 +1,27 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Runs a set of code at a future time specified by tickDelay."
+        },
+        {
+            "name": "param",
+            "param": "callback",
+            "value": "Functional code that will run when this timeout occurs."
+        },
+        {
+            "name": "param",
+            "param": "tickDelay",
+            "value": "Amount of time, in ticks, before the timeout will be called."
+        },
+        {
+            "name": "returns",
+            "value": "An opaque handle that can be used with the clearRun method to stop the run of this function on an interval."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

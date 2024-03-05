@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Whether the entity is sprinting.\nFor example, a player using the sprint action, an ocelot running away or a pig boosting with Carrot on a Stick."
+        }
+    ]
+}

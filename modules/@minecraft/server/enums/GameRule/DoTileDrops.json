@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Controls whether blocks drop items when destroyed."
+        }
+    ]
+}

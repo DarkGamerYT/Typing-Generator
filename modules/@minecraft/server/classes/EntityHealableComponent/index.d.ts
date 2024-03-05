@@ -1,1 +1,0 @@
-/** Defines the interactions with this entity for healing it. */

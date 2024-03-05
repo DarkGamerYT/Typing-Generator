@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Determines whether players should be able to craft only those recipes that they've unlocked first - when dolimitedcrafting is set to true."
+        }
+    ]
+}

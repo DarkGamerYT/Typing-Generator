@@ -1,0 +1,28 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Creates an explosion at the specified location."
+        },
+        {
+            "name": "param",
+            "param": "location",
+            "value": "The location of the explosion."
+        },
+        {
+            "name": "radius",
+            "param": "location",
+            "value": "Radius, in blocks, of the explosion to create."
+        },
+        {
+            "name": "param",
+            "param": "explosionOptions",
+            "value": "Additional configurable options for the explosion."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

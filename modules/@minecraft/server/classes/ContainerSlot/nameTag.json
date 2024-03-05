@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Given name of this stack of items.\nThe name tag is displayed when hovering over the item.\nSetting the name tag to an empty string or `undefined` will remove the name tag"
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid. Also throws if the length exceeds 255 characters."
+        }
+    ]
+}

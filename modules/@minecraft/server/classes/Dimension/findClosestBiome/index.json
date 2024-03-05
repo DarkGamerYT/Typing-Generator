@@ -1,0 +1,33 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Finds the location of the closest biome of a particular type.\nNote that the findClosestBiome operation can take some time to complete, so avoid using many of these calls within a particular tick."
+        },
+        {
+            "name": "param",
+            "param": "pos",
+            "value": "Starting location to look for a biome to find."
+        },
+        {
+            "name": "param",
+            "param": "biomeToFind",
+            "value": "Identifier of the biome to look for."
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "Additional selection criteria for a biome search."
+        },
+        {
+            "name": "returns",
+            "value": "Returns a location of the biome, or undefined if a biome could not be found."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Fetch a block iterator which can be used to step across the Selection shape.\nEach call to the iterator will return the next block location within the Selection bounds which is actually selected.\nBlock iteration is not guaranteed to be contiguous - it is possible to create irregular selection shapes by adding volumes to a selection\n which may or may not be contiguous or adjacent to other volumes within the selection.\nThe Block iterator will return only selected volume locations"
+        }
+    ]
+}

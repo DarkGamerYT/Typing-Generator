@@ -1,1 +1,0 @@
-/** Represents an effect - like poison - that has been added to an Entity. */

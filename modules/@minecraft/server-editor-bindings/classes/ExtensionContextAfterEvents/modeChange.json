@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This event triggers when the editor mode changes for the player."
+        }
+    ]
+}

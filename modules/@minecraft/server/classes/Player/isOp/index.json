@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns true if this player has operator-level permissions."
+        }
+    ]
+}

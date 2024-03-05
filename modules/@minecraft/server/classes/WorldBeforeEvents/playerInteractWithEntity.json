@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Fires before a player interacts with an entity."
+        }
+    ]
+}

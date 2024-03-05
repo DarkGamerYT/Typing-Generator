@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This event fires when an entity hits (that is, melee attacks) a block."
+        }
+    ]
+}

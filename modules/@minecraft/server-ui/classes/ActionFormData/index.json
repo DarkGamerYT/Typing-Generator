@@ -1,0 +1,10 @@
+{
+    "description": "Builds a simple player form with buttons that let the player take action.",
+    "comments": [
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

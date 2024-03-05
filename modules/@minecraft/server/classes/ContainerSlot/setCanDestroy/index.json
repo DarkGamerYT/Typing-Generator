@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The list of block types this item can break in Adventure mode.\nThe block names are displayed in the item's tooltip.\nSetting the value to undefined will clear the list."
+        },
+        {
+            "name": "param",
+            "param": "blockIdentifiers",
+            "value": "String list of block types that the item can destroy."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid. Also throws if any of the provided block identifiers are invalid."
+        }
+    ]
+}

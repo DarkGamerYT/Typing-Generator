@@ -1,0 +1,18 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Checks to see if the permutation has a specific tag."
+        },
+        {
+            "name": "returns",
+            "value": "Returns `true` if the permutation has the tag, else `false`."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

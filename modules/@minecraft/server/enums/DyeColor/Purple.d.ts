@@ -1,1 +1,0 @@
-/** @remarks Purple dye color. */

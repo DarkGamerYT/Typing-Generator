@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Return how many transactions records currently exist on the stack."
+        }
+    ]
+}

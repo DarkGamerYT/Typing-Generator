@@ -1,1 +1,0 @@
-/** @remarks Green dye color. */

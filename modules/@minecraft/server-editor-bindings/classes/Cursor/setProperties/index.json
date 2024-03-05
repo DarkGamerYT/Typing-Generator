@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Set the 3D block cursor properties to a given state"
+        },
+        {
+            "name": "param",
+            "param": "properties",
+            "value": "A set of optional parameters within a property state which represent the intended 3D block cursor state"
+        }
+    ]
+}

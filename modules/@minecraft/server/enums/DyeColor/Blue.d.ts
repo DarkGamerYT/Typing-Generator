@@ -1,1 +1,0 @@
-/** @remarks Blue dye color. */

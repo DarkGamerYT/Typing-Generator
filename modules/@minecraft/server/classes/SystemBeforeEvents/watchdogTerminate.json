@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Fires when the scripting watchdog shuts down the server. This can be due to using too much memory, or by causing significant slowdown or hang.\nTo prevent shutdown, set the event's cancel property to true."
+        }
+    ]
+}

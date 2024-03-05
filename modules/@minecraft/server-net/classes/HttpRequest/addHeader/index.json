@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Adds an additional header to the overall list of headers used in the corresponding HTTP request."
+        }
+    ]
+}

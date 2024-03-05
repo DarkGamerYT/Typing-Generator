@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This function will commit the pending changes caused by any of the track changes variants.\nThe changes will be committed to the currently open transaction, but the transaction will remain open for further records.\nPending block changes from tracking operations will be added the transaction record before submission to the transaction manager"
+        },
+        {
+            "name": "returns",
+            "value": "Returns the number of change requests that were being tracked"
+        }
+    ]
+}

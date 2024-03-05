@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Removes an enchantment of the given type."
+        },
+        {
+            "name": "param",
+            "param": "enchantmentType",
+            "value": "The enchantment type to remove."
+        },
+        {
+            "name": "throws",
+            "value": "ScriptItemEnchantmentUnknownIdError: Exception thrown if the enchantment type does not exist."
+        }
+    ]
+}

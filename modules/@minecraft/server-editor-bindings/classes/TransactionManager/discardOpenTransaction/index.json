@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Discard the currently open transaction without committing it to the transaction manager stack.\nAll records within the transaction will be discarded, and any tracking requests currently active will be stopped"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Checks to see whether it is valid to place the specified block type or block permutation, on a specified face on this block"
+        },
+        {
+            "name": "param",
+            "param": "blockToPlace",
+            "value": "Block type or block permutation to check placement for."
+        },
+        {
+            "name": "param",
+            "param": "faceToPlaceOn",
+            "value": "Optional specific face of this block to check placement against."
+        },
+        {
+            "name": "returns",
+            "value": "Returns `true` if the block type or permutation can be placed on this block, else `false`."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "canPlace.js"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "canPlaceBlockTypes.js"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "canPlaceBlockPermutation.js"
+        }
+    ]
+}

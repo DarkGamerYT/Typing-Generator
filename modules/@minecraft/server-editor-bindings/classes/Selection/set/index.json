@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Replace the contents of the current selection with a newspecified selection.\nThis operation will delete the current contents and copy the contents of the new selection to the target selection - it does this by content, not by reference."
+        },
+        {
+            "name": "param",
+            "param": "other",
+            "value": "{@link minecraftserver.CompoundBlockVolume} - set the block component part of this selection to the specified compound block volume.\nThis will completely replace all block volume definitions in the selection.\n{@link @Selection} - replace the selection with the specified selection"
+        }
+    ]
+}

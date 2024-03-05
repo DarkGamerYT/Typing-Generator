@@ -1,0 +1,13 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a set of tags for a block."
+        },
+        {
+            "name": "remarks",
+            "value": "The list of tags that the block has."
+        }
+    ]
+}

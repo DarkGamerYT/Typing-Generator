@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets the entire specified duration, in ticks, of this effect.\nThere are 20 ticks per second.\nUse {@link TicksPerSecond} constant to convert between ticks and seconds."
+        }
+    ]
+}

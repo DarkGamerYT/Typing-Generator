@@ -1,0 +1,21 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets the enchantment of a given type from the item stack."
+        },
+        {
+            "name": "param",
+            "param": "enchantmentType",
+            "value": "The enchantment type to get."
+        },
+        {
+            "name": "returns",
+            "value": "Returns the enchantment if it exists on the item stack."
+        },
+        {
+            "name": "throws",
+            "value": "ScriptItemEnchantmentUnknownIdError: Exception thrown if the enchantment type does not exist."
+        }
+    ]
+}

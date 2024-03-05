@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Checks to see if the permutation of this block has a specific tag."
+        },
+        {
+            "name": "param",
+            "param": "tag",
+            "value": "Tag to check for."
+        },
+        {
+            "name": "returns",
+            "value": "Returns `true` if the permutation of this block has the tag, else `false`."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "An event that fires when a /scriptevent command is set.\nThis provides a way for commands and other systems to trigger behavior within script."
+        }
+    ]
+}

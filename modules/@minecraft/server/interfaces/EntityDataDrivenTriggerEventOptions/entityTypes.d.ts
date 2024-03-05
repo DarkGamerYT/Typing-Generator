@@ -1,1 +1,0 @@
-/** @remarks If this value is set, this event will only fire if the impacted entities' type matches this parameter. */

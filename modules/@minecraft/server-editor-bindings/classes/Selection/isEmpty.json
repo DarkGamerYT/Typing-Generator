@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a boolean representing whether or not there are any volumes pushed to the selection stack"
+        }
+    ]
+}

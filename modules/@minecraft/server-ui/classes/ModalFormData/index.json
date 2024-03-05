@@ -1,0 +1,10 @@
+{
+    "description": "Used to create a fully customizable pop-up form for a player.",
+    "comments": [
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

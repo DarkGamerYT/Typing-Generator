@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Identifier of type of item that can be fed.\nIf a namespace is not specified, 'minecraft:' is assumed.\nExample values include 'wheat' or 'golden_apple'."
+        }
+    ]
+}

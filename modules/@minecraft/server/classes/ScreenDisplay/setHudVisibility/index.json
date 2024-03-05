@@ -1,0 +1,10 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

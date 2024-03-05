@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The item stack that was used to break the block before the block was broken, or undefined if empty hand."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Whether the explosion will break blocks within the blast radius."
+        }
+    ]
+}

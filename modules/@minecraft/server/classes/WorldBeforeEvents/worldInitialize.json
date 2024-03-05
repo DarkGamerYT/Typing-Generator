@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This event fires immediately when the script environment is initialized on a World.\nNot all script functionality may be available.\nFor guaranteed access to world state, use the worldInitialize afterEvent."
+        }
+    ]
+}

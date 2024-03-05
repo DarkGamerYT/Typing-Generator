@@ -1,1 +1,0 @@
-/** @remarks The front of the sign. */

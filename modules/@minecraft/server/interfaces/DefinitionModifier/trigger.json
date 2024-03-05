@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The list of entity definition events that will be fired via this update."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The warning channel is intended to inform the user of 'potential' issues (missing inputs, values out of range, things that cannot be found) but are not fatal and execution can still be completed."
+        },
+        {
+            "name": "param",
+            "param": "message",
+            "value": "The message string to send to the log window"
+        }
+    ]
+}

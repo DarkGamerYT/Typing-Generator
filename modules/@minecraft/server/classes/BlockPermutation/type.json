@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The {@link BlockType} that the permutation has."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "In conjunction with location, specified a cuboid volume of entities to include."
+        }
+    ]
+}

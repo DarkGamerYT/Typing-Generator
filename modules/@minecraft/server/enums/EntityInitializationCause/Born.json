@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Case when an entity is created as child of other entity or entities,\ne.g., cows making a cow or slimes making smaller slimes after dying."
+        }
+    ]
+}

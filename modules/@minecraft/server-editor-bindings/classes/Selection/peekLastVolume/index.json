@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Fetch the volume information of the last compound volume that was pushed to the volume stack without affecting the stack itself"
+        },
+        {
+            "name": "param",
+            "param": "forceRelativity",
+            "value": "See the description for {@link minecraftserver.CompoundBlockVolume.peekLastVolume}"
+        },
+        {
+            "name": "returns",
+            "value": "Returns undefined if the stack is empty"
+        }
+    ]
+}

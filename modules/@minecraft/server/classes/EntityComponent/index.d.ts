@@ -1,1 +1,0 @@
-/** Base class for downstream entity components. */

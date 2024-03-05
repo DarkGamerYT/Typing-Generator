@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Arguments for the translation token.\nCan be either an array of strings or RawMessage containing an array of raw text objects."
+        }
+    ]
+}

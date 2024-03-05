@@ -1,0 +1,4 @@
+{
+    "beta": true,
+    "description": "Contains additional options for searches for the {@link Dimension.findNearestBiome} API."
+}

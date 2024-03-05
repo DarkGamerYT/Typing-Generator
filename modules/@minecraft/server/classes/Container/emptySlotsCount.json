@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Count of the slots in the container that are empty."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the container is invalid."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets the total byte count of dynamic properties.\nThis could potentially be used for your own analytics to ensure you're not storing gigantic sets of dynamic properties."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Performs a simple HTTP get request."
+        },
+        {
+            "name": "param",
+            "param": "uri",
+            "value": "URL to make an HTTP Request to."
+        },
+        {
+            "name": "returns",
+            "value": "An awaitable promise that contains the HTTP response."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

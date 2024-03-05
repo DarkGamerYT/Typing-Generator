@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Stops any music tracks from playing for this particular player."
+        }
+    ]
+}

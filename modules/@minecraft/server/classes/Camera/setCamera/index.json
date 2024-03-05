@@ -1,0 +1,23 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the current active camera for the specified player."
+        },
+        {
+            "name": "param",
+            "param": "cameraPreset",
+            "value": "Identifier of a camera preset file defined within JSON."
+        },
+        {
+            "name": "param",
+            "param": "setOptions",
+            "value": "Additional options for the camera."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "An enum which represents the axis (or combination of axis') along which the item should be mirrored\n- X\n- Z\n- XZ"
+        }
+    ]
+}

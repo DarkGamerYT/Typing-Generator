@@ -1,0 +1,27 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Runs a synchronous command on the entity."
+        },
+        {
+            "name": "param",
+            "param": "commandString",
+            "value": "The command string."
+        },
+        {
+            "name": "returns",
+            "value": "A command result containing whether the command was successful."  
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "player.js"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "entity.js"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Damage caused by falling blocks. Note: Anvils and Stalactites have their own damage causes."
+        },
+        {
+            "value": ""
+        },
+        {
+            "value": "Note that when used in {@link Entity.applyDamage}, the armor will be damaged."
+        }
+    ]
+}

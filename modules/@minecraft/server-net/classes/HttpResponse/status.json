@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "HTTP response code for the request.\nFor example, 404 represents resource not found, and 500 represents an internal server error."
+        }
+    ]
+}

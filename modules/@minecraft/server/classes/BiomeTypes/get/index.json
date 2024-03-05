@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a specific biome type."
+        },
+        {
+            "name": "param",
+            "param": "typeName",
+            "value": "Identifier of the biome.\nGenerally, namespaced identifiers (e.g., minecraft:frozen_peaks) should be used."
+        },
+        {
+            "name": "returns",
+            "value": "If the biome exists, a BiomeType object is returned. If not, undefined is returned."
+        }
+    ]
+}

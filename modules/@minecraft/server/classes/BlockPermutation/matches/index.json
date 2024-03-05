@@ -1,0 +1,23 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a boolean whether a specified permutation matches this permutation.\nIf states is not specified, matches checks against the set of types more broadly."
+        },
+        {
+            "name": "param",
+            "param": "blockName",
+            "value": "An optional set of states to compare against."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "matches.js"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "matchesStates.js"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Translate a selection by a given amount (this causes all of the volumes within the selection to be moved by the specified offset)"
+        },
+        {
+            "name": "param",
+            "param": "delta",
+            "value": "The amount by which to move"
+        },
+        {
+            "name": "returns",
+            "value": "The newly moved position"
+        }
+    ]
+}

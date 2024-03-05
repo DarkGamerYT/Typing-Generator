@@ -1,0 +1,3 @@
+{
+    "description": "Represents a container that can hold sets of items.\nUsed with entities such as Players, Chest Minecarts, Llamas, and more."
+}

@@ -1,1 +1,0 @@
-/** @beta This interface defines an entry into the {@link CompoundBlockVolume} which represents a volume of positive or negative space. */

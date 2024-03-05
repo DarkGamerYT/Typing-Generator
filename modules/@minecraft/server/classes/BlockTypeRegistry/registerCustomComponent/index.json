@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Registers a block custom component that can be used in block JSON configuration."
+        },
+        {
+            "name": "param",
+            "param": "name",
+            "value": "The id that represents this custom component. Must have a namespace.\nThis id can be specified in a block's JSON configuration under the 'minecraft:custom_components' block component."
+        },
+        {
+            "name": "param",
+            "param": "customComponent",
+            "value": "The collection of event functions that will be called when the event occurs on a block using this custom component id."
+        }
+    ]
+}

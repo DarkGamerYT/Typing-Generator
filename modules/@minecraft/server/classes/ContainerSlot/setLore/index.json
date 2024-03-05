@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the lore value - a secondary display string - for an ItemStack.\nThe lore list is cleared if set to an empty string or undefined."
+        },
+        {
+            "name": "param",
+            "param": "loreList",
+            "value": "List of lore lines. Each element in the list represents a new line.\nThe maximum lore line count is 20.\nThe maximum lore line length is 50 characters."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid."
+        }
+    ]
+}

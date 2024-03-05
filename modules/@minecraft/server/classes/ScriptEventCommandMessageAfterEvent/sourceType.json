@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the type of source that fired this command."
+        }
+    ]
+}

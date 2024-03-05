@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "This event fires when the script environment is initialized on a World."
+        }
+    ]
+}

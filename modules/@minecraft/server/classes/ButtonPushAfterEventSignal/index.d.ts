@@ -1,1 +1,0 @@
-/** Manages callbacks that are connected to when a button is pushed. */

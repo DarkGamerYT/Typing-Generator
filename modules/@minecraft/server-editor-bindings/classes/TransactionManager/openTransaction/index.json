@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Open a transaction record which will be a container for any number of transaction operations.\nAll transaction operations within a record are grouped and treated as a single atomic unit"
+        },
+        {
+            "name": "param",
+            "param": "name",
+            "value": "Give the transaction record a name"
+        }
+    ]
+}

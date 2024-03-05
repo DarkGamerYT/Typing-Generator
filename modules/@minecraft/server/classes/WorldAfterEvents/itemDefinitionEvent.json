@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "For custom items, this event is triggered when the fundamental set of defined components for the item change.\nNote that this event is only fired for custom data-driven items."
+        }
+    ]
+}

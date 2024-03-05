@@ -1,0 +1,23 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Creates a new instance of an abstract vector."
+        },
+        {
+            "name": "param",
+            "param": "x",
+            "value": "X component of the vector."
+        },
+        {
+            "name": "param",
+            "param": "y",
+            "value": "Y component of the vector."
+        },
+        {
+            "name": "param",
+            "param": "z",
+            "value": "Z component of the vector."
+        }
+    ]
+}

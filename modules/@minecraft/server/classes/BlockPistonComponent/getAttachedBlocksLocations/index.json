@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Retrieves a set of block locations that this piston is connected with."
+        }
+    ]
+}

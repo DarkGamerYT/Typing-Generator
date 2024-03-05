@@ -1,1 +1,0 @@
-/** This type of error is thrown when a parameter to a method or property is out of expected bounds. */

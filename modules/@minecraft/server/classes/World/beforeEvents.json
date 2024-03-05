@@ -1,0 +1,11 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Contains a set of events that are applicable to the entirety of the world."
+        },
+        {
+            "value": "Event callbacks are called immediately and are executed in read-only mode."
+        }
+    ]
+}

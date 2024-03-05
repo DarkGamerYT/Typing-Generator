@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Contains the reason why a script runtime is to be terminated."
+        }
+    ]
+}

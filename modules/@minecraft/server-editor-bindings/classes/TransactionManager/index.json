@@ -1,0 +1,3 @@
+{
+    "description": "The Transaction Manager is responsible for tracking and managing all of the registered transaction operations which represent creator changes in the world.\nTransaction Manager is the basis of the UNDO and REDO operations, and allows a creator to store the changes made to the world and the state of the world BEFORE those changes were applied,\nmaking it possible to UNDO those changes and restore the world state. \nThe transactions are stored as a stack, and can be undone in stack order to restore the world to it's original state"
+}

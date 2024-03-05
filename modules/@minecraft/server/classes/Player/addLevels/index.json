@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Adds/removes level to/from the Player and returns the current level of the Player."
+        },
+        {
+            "name": "param",
+            "param": "amount",
+            "value": "Amount to add to the player. Note that this can be negative.\nMin/max bounds at -2^24 ~ 2^24"
+        },
+        {
+            "name": "returns",
+            "value": "Returns the current level of the Player."
+        }
+    ]
+}

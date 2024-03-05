@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The type of weather that it was prior to the event being fired."
+        }
+    ]
+}

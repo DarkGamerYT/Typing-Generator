@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Controls whether command output is displayed to players. Also controls whether Command Block output is stored by default."
+        }
+    ]
+}

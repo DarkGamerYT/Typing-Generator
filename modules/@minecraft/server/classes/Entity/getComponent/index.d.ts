@@ -4,8 +4,7 @@
  * @param componentId
  * The identifier of the component (e.g., 'minecraft:health').
  * If no namespace prefix is specified, 'minecraft:' is assumed.
- * Available component IDs can be found as part of the
- * {@link EntityComponentTypes} enum.
+ * Available component IDs can be found as part of the {@link EntityComponentTypes} enum.
  * @returns Returns the component if it exists on the entity, otherwise undefined.
  * @example
  * ```javascript

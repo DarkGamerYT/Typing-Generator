@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns whether this block has a liquid on it."
+        }
+    ]
+}

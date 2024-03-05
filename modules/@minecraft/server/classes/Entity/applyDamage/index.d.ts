@@ -1,6 +1,5 @@
 /**
- * @remarks
- * Applies a set of damage to an entity.
+ * @remarks Applies a set of damage to an entity.
  *
  * This function can't be called in read-only mode.
  *

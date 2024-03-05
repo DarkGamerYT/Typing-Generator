@@ -1,1 +1,0 @@
-/** Defines how much friction affects this entity. */
