@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a set of effects applied to this entity."
+        },
+        {
+            "name": "returns",
+            "value": "List of effects."
+        }
+    ]
+}

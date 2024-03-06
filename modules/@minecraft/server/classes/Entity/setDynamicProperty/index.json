@@ -1,0 +1,23 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets a specified property to a value."
+        },
+        {
+            "name": "param",
+            "param": "identifier",
+            "value": "The property identifier."
+        },
+        {
+            "name": "param",
+            "param": "value",
+            "value": "Data value of the property to set."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

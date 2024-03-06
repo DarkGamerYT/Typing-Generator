@@ -1,0 +1,21 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns whether the item in the slot slot has the given tag."
+        },
+        {
+            "name": "param",
+            "param": "tag",
+            "value": "The item tag."
+        },
+        {
+            "name": "returns",
+            "value": "Returns false when the slot is empty or the item in the slot does not have the given tag."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the slot's container is invalid."
+        }
+    ]
+}

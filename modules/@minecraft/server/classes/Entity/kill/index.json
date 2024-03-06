@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Kills this entity. The entity will drop loot as normal."
+        },
+        {
+            "name": "remarks",
+            "value": "Returns true if entity can be killed (even if it is already dead), otherwise it returns false."
+        }
+    ]
+}

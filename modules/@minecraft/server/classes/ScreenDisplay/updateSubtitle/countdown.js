@@ -1,4 +1,4 @@
-import { world, system } from "@minecraft/server";
+import { world, system, TicksPerSecond } from "@minecraft/server";
 const player = world.getAllPlayers()[0];
 
 player.onScreenDisplay.setTitle("Get ready!", {
@@ -14,4 +14,4 @@ let interval = system.runInterval(() => {
     player.onScreenDisplay.updateSubtitle(countdown.toString());
 
     if (countdown == 0) system.clearRun(interval);
-}, 20);
+}, 1 * TicksPerSecond);

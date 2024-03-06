@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Attempts to try a teleport, but may not complete the teleport operation (for example, if there are blocks at the destination.)"
+        },
+        {
+            "name": "param",
+            "param": "location",
+            "value": "Location to teleport the entity to."
+        },
+        {
+            "name": "param",
+            "param": "teleportOptions",
+            "value": "Options regarding the teleport operation."
+        },
+        {
+            "name": "returns",
+            "value": "Returns whether the teleport succeeded.\nThis can fail if the destination chunk is unloaded or if the teleport would result in intersecting with blocks."
+        }
+    ]
+}

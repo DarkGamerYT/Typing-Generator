@@ -1,0 +1,28 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets the first block that intersects with a vector emanating from a location."
+        },
+        {
+            "name": "param",
+            "param": "location",
+            "value": "Location from where to initiate the ray check."
+        },
+        {
+            "name": "param",
+            "param": "direction",
+            "value": "Vector direction to cast the ray."
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "Additional options for processing this raycast query."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

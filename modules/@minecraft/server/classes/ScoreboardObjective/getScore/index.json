@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a specific score for a participant."
+        },
+        {
+            "name": "param",
+            "param": "participant",
+            "value": "Identifier of the participant to retrieve a score for."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets the entities that this entity is looking at by performing a ray cast from the view of this entity."
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "Additional configuration options for the ray cast."
+        },
+        {
+            "name": "returns",
+            "value": "Returns a set of entities from the direction that this entity is looking at."
+        }
+    ]
+}

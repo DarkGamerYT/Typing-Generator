@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Immediately removes the entity from the world.\nThe removed entity will not perform a death animation or drop loot upon removal."
+        }
+    ]
+}

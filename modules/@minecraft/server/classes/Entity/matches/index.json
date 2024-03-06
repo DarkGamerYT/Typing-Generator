@@ -1,0 +1,21 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Matches the entity against the passed in options.\nUses the location of the entity for matching if the location is not specified in the passed in {@link EntityQueryOptions}."
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "The query to perform the match against."
+        },
+        {
+            "name": "returns",
+            "value": "Returns true if the entity matches the criteria in the passed in {@link EntityQueryOptions}, otherwise it returns false."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the query options are misconfigured."
+        }
+    ]
+}

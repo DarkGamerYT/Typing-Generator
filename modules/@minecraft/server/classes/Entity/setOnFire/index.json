@@ -1,0 +1,27 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets an entity on fire (if it is not in water or rain).\nNote that you can call `getComponent('minecraft:onfire')` and, if present, the entity is on fire."
+        },
+        {
+            "name": "param",
+            "param": "seconds",
+            "value": "Length of time to set the entity on fire."
+        },
+        {
+            "name": "param",
+            "param": "useEffects",
+            "value": "Whether side-effects should be applied (e.g. thawing freeze) and other conditions such as rain or fire protection should be taken into consideration."
+        },
+        {
+            "name": "returns",
+            "value": "Whether the entity was set on fire.\nThis can fail if seconds is less than or equal to zero, the entity is wet or the entity is immune to fire."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

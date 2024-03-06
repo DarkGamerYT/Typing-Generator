@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets an Entity Property to the provided value.\nThis property change is not applied until the next tick."
+        },
+        {
+            "name": "param",
+            "param": "identifier",
+            "value": "The Entity Property identifier."
+        },
+        {
+            "name": "param",
+            "param": "value",
+            "value": "The property value.\nThe provided type must be compatible with the type specified in the entity's definition."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the entity is invalid.\nThrows if an invalid identifier is provided.\nThrows if the provided value type does not match the property type.\nThrows if the provided value is outside the expected range (int, float properties).\nThrows if the provided string value does not match the set of accepted enum values (enum properties)."
+        }
+    ]
+}

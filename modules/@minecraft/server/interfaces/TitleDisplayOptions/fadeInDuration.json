@@ -2,7 +2,7 @@
     "comments": [
         {
             "name": "remarks",
-            "value": "Fade-in duration for the title and subtitle, in ticks.\nThere are 20 ticks per second."
+            "value": "Fade-in duration for the title and subtitle, in ticks.\n\nThere are 20 ticks per second."
         },
         {
             "value": "Use {@link TicksPerSecond} constant to convert between ticks and seconds."

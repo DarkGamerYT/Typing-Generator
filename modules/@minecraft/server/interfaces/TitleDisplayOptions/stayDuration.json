@@ -2,7 +2,7 @@
     "comments": [
         {
             "name": "remarks",
-            "value": "Amount of time for the title and subtitle to stay in place, in ticks.\nThere are 20 ticks per second."
+            "value": "Amount of time for the title and subtitle to stay in place, in ticks.\n\nThere are 20 ticks per second."
         },
         {
             "value": "Use {@link TicksPerSecond} constant to convert between ticks and seconds."

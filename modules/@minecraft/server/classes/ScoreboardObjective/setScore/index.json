@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets a score for a participant."
+        },
+        {
+            "name": "param",
+            "param": "participant",
+            "value": "Identity of the participant."
+        },
+        {
+            "name": "param",
+            "param": "score",
+            "value": "New value of the score."
+        }
+    ]
+}

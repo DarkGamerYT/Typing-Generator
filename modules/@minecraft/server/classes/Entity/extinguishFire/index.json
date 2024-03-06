@@ -1,0 +1,27 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Applies a set of damage to an entity."
+        },
+        {
+            "name": "param",
+            "param": "amount",
+            "value": "Amount of damage to apply."
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "Additional options about the source of damage, which may add additional effects or spur additional behaviors on this entity."
+        },
+        {
+            "name": "returns",
+            "value": "Whether the entity takes any damage.\nThis can return false if the entity is invulnerable or if the damage applied is less than or equal to 0."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

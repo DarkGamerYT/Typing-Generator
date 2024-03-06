@@ -1,0 +1,21 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Resets an Entity Property back to its default value, as specified in the Entity's definition.\nThis property change is not applied until the next tick."
+        },
+        {
+            "name": "param",
+            "param": "identifier",
+            "value": "The Entity Property identifier."
+        },
+        {
+            "name": "returns",
+            "value": "Returns the default property value.\nFor enum properties, a string is returned.\nFor float and int properties, a number is returned.\nFor undefined properties, undefined is returned."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the entity is invalid."
+        }
+    ]
+}

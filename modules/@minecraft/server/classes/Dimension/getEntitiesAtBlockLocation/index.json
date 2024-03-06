@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a set of entities at a particular location."
+        },
+        {
+            "name": "param",
+            "param": "location",
+            "value": "The location at which to return entities."
+        },
+        {
+            "name": "returns",
+            "value": "Zero or more entities at the specified location."
+        }
+    ]
+}

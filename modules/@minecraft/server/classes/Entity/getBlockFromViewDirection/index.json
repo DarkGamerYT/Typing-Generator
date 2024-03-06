@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the first intersecting block from the direction that this entity is looking at."
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "Additional configuration options for the ray cast."
+        },
+        {
+            "name": "returns",
+            "value": "Returns the first intersecting block from the direction that this entity is looking at."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

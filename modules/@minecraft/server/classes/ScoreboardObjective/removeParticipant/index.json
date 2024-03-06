@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Removes a participant from this scoreboard objective."
+        },
+        {
+            "name": "param",
+            "param": "participant",
+            "value": "Participant to remove from being tracked with this objective."
+        }
+    ]
+}

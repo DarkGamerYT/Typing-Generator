@@ -1,0 +1,27 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets a component (that represents additional capabilities) for an entity."
+        },
+        {
+            "name": "param",
+            "param": "componentId",
+            "value": "The identifier of the component (e.g., 'minecraft:health'). If no namespace prefix is specified, 'minecraft:' is assumed.\nAvailable component IDs can be found as part of the {@link EntityComponentTypes} enum."
+        },
+        {
+            "name": "returns",
+            "value": "Returns the component if it exists on the entity, otherwise undefined."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "inventoryComponent.js"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "healthComponent.js"
+        }
+    ]
+}

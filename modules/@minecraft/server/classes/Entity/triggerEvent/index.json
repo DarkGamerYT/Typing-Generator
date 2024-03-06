@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Triggers an entity type event.\nFor every entity, a number of events are defined in an entities' definition for key entity behaviors; for example, creepers have a minecraft:start_exploding type event."
+        },
+        {
+            "name": "param",
+            "param": "eventName",
+            "value": "Name of the entity type event to trigger. If a namespace is not specified, minecraft: is assumed."
+        },
+        {
+            "name": "throws",
+            "value": "If the event is not defined in the definition of the entity, an error will be thrown."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

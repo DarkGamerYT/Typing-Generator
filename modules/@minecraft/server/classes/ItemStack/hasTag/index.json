@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Checks whether this item stack has a particular tag associated with it."
+        },
+        {
+            "name": "param",
+            "param": "tag",
+            "value": "Tag to search for."
+        },
+        {
+            "name": "returns",
+            "value": "True if the Item Stack has the tag associated with it, else false."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Removes the specified {@link EffectType} on the entity, or returns false if the effect is not present."
+        },
+        {
+            "name": "param",
+            "param": "effectType",
+            "value": "The effect identifier."
+        },
+        {
+            "name": "returns",
+            "value": "Returns true if the effect has been removed, otherwise false if the effect is not found or does not exist."
+        }
+    ]
+}

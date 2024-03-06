@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a set of entities based on a set of conditions defined via the EntityQueryOptions set of filter criteria."
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "Additional options that can be used to filter the set of entities returned."
+        },
+        {
+            "name": "returns",
+            "value": "An entity array."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

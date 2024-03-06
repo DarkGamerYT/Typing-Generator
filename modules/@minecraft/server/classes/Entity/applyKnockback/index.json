@@ -1,0 +1,33 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Applies impulse vector to the current velocity of the entity."
+        },
+        {
+            "name": "param",
+            "param": "directionX",
+            "value": "X direction in horizontal plane."
+        },
+        {
+            "name": "param",
+            "param": "directionZ",
+            "value": "Z direction in horizontal plane."
+        },
+        {
+            "name": "param",
+            "param": "horizontalStrength",
+            "value": "Knockback strength for the horizontal vector."
+        },
+        {
+            "name": "param",
+            "param": "verticalStrength",
+            "value": "Knockback strength for the vertical vector."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

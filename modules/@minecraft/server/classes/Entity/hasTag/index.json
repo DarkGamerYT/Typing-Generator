@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns whether an entity has a particular tag."
+        },
+        {
+            "name": "param",
+            "param": "tag",
+            "value": "Identifier of the tag to test for."
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns whether the entity can be manipulated by script.\nA Player is considered valid when it's {@link EntityLifetimeState} is set to Loaded."
+        },
+        {
+            "name": "returns",
+            "value": "Whether the entity is valid."
+        }
+    ]
+}

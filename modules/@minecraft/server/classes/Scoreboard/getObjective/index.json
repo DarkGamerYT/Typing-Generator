@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns a specific objective (by id)."
+        },
+        {
+            "name": "param",
+            "param": "objectiveId",
+            "value": "Identifier of the objective."
+        }
+    ]
+}

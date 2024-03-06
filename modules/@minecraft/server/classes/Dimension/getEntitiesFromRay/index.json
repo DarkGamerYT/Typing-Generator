@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets entities that intersect with a specified vector emanating from a location."
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "Additional options for processing this raycast query."
+        }
+    ]
+}

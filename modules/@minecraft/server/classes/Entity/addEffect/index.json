@@ -1,0 +1,32 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Adds or updates an effect, like poison, to the entity."
+        },
+        {
+            "name": "param",
+            "param": "effectType",
+            "value": "Type of effect to add to the entity."
+        },
+        {
+            "name": "param",
+            "param": "duration",
+            "value": "Amount of time, in ticks, for the effect to apply.\n\nThere are 20 ticks per second.\nUse {@link TicksPerSecond} constant to convert between ticks and seconds.\n\nThe value must be within the range [0, 20000000]."
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "Additional options for the effect."
+        },
+        {
+            "name": "returns",
+            "value": "Returns nothing if the effect was added or updated successfully.\nThis can throw an error if the duration or amplifier are outside of the valid ranges, or if the effect does not exist."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

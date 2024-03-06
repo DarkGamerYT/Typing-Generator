@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the current velocity of the Entity to zero.\nNote that this method may not have an impact on Players."
+        }
+    ]
+}

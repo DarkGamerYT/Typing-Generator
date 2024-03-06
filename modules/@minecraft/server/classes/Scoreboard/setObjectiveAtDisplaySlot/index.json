@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets an objective into a display slot with specified additional display settings."
+        },
+        {
+            "name": "returns",
+            "value": "Returns the previous `ScoreboardObjective` set at the display slot, if no objective was previously set it returns `undefined`."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Teleports the selected entity to a new location"
+        },
+        {
+            "name": "param",
+            "param": "location",
+            "value": "New location for the entity."
+        },
+        {
+            "name": "param",
+            "param": "teleportOptions",
+            "value": "Options regarding the teleport operation"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

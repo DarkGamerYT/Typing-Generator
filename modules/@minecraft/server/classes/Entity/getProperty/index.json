@@ -1,0 +1,21 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets an entity Property value.\nIf the property was set using the {@link Entity.setProperty} function within the same tick, the updated value will not be reflected until the subsequent tick."
+        },
+        {
+            "name": "param",
+            "param": "identifier",
+            "value": "The entity Property identifier."
+        },
+        {
+            "name": "returns",
+            "value": "Returns the current property value.\nFor enum properties, a string is returned.\nFor float and int properties, a number is returned.\nFor undefined properties, undefined is returned."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the entity is invalid."
+        }
+    ]
+}

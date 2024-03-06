@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the effect for the specified EffectType on the entity, undefined if the effect is not present, or throws an error if the effect does not exist."
+        },
+        {
+            "name": "param",
+            "param": "effectType",
+            "value": "The effect identifier."
+        },
+        {
+            "name": "returns",
+            "value": "Effect object for the specified effect, undefined if the effect is not present, or throws an error if the effect does not exist."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

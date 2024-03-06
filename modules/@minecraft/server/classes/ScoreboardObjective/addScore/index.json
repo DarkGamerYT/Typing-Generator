@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Adds a score to the given participant and objective."
+        },
+        {
+            "name": "param",
+            "param": "participant",
+            "value": "Participant to apply the scoreboard value addition to."
+        }
+    ]
+}

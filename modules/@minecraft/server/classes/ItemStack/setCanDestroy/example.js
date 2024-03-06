@@ -1,4 +1,4 @@
 import { ItemStack } from "@minecraft/server";
 
-const item = new ItemStack("minecraft:diamond_shovel");
-item.setCanDestroy([ "minecraft:dirt" ]);
+const itemStack = new ItemStack("minecraft:diamond_shovel");
+itemStack.setCanDestroy([ "minecraft:dirt" ]);

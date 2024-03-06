@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Direction vector of the projectile as it hit a block."
+        }
+    ]
+}

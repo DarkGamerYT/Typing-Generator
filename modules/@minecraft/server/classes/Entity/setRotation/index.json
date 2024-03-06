@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the main rotation of the entity."
+        },
+        {
+            "name": "param",
+            "param": "rotation",
+            "value": "The x and y rotation of the entity (in degrees).\nFor most mobs, the x rotation controls the head tilt and the y rotation controls the body rotation."
+        }
+    ]
+}

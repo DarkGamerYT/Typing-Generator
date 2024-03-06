@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Fetch a {@link BlockLocationIterator} that represents all of the block world locations within the specified volume"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "blockVolume.js"
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "listBlockVolume.js"
+        }
+    ]
+}

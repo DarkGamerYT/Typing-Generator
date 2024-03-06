@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Adds a specified tag to an entity."
+        },
+        {
+            "name": "param",
+            "param": "tag",
+            "value": "Content of the tag to add. The tag must be less than 256 characters."
+        },
+        {
+            "name": "returns",
+            "value": "Returns true if the tag was added successfully.\nThis can fail if the tag already exists on the entity."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

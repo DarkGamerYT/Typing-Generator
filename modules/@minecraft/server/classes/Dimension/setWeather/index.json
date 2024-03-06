@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the current weather within the dimension"
+        },
+        {
+            "name": "param",
+            "param": "weatherType",
+            "value": "Set the type of weather to apply."
+        },
+        {
+            "name": "param",
+            "param": "duration",
+            "value": "Sets the duration of the weather (in ticks).\nIf no duration is provided, the duration will be set to a random duration between 300 and 900 seconds."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns if the specified identity is a participant of the scoreboard objective."
+        }
+    ]
+}

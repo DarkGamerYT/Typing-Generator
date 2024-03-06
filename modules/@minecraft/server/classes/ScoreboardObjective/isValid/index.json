@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns true if the ScoreboardObjective reference is still valid."
+        }
+    ]
+}

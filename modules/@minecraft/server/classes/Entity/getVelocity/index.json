@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the current velocity vector of the entity."
+        }
+    ]
+}

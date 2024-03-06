@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Cause the entity to play the given animation."
+        },
+        {
+            "name": "param",
+            "param": "animationName",
+            "value": "The animation identifier. e.g. animation.creeper.swelling"
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "Additional options to control the playback and transitions of the animation."
+        }
+    ]
+}

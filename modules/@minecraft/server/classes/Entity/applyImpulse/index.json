@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Applies impulse vector to the current velocity of the entity."
+        },
+        {
+            "name": "param",
+            "param": "vector",
+            "value": "Impulse vector."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns whether the ContainerSlot is valid.\nThe container slot is valid if the container exists and is loaded, and the slot index is valid."
+        }
+    ]
+}

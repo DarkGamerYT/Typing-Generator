@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Removes a specified tag from an entity."
+        },
+        {
+            "name": "param",
+            "param": "tag",
+            "value": "Content of the tag to remove."
+        },
+        {
+            "name": "returns",
+            "value": "Returns whether the tag existed on the entity."
+        }
+    ]
+}
