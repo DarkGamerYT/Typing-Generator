@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Causes the simulated player to attack the provided target.\nReturns true if the attack was performed - for example, the player was not on cooldown and had a valid target.\nThe attack can be performed at any distance and does not require line of sight to the target entity."
+        }
+    ]
+}

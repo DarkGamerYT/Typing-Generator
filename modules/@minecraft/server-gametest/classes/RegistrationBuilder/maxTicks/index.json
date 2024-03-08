@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the maximum number of ticks a test will run for before timing out and failing."
+        },
+        {
+            "name": "returns",
+            "value": "RegistrationBuilder object where additional configuration methods can be called."
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+{
+    "description": "Main class for GameTest functions, with helpers and data for manipulating the respective test.\nNote that all methods of this class expect BlockLocations and Locations relative to the GameTest structure block."
+}

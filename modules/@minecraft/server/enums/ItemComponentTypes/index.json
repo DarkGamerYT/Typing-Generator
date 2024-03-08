@@ -1,4 +1,3 @@
 {
-    "beta": true,
     "description": "The types of item components that are accessible via function {@link ItemStack.getComponent}"
 }

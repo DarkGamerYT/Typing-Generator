@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Stops destroying the block that is currently being hit."
+        }
+    ]
+}

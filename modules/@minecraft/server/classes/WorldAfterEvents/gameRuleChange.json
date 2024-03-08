@@ -3,7 +3,7 @@
     "comments": [
         {
             "name": "remarks",
-            "value": "This event fires when a world.gameRules property has changed."
+            "value": "This event fires when a {@link World.gameRules} property has changed."
         }
     ]
 }

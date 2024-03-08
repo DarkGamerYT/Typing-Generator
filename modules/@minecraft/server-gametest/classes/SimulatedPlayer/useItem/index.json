@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Causes the simulated player to use an item. Does not consume the item.\nReturns false if the item is on cooldown."
+        },
+        {
+            "name": "param",
+            "param": "itemStack",
+            "value": "Item to use."
+        }
+    ]
+}

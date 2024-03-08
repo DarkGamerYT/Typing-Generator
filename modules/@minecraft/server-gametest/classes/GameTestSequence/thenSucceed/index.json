@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Marks the GameTest a success if this step is reached in the GameTest sequence."
+        }
+    ]
+}

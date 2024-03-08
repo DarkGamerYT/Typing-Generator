@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Causes the simulated player to start gliding.\nElytra must be equipped and the player must be in the air."
+        },
+        {
+            "name": "returns",
+            "value": "Returns true if the simulated player begins to glide.\nReturns false if the player is already gliding, or the player does not have Elytra equipped, is in water or is on the ground."
+        }
+    ]
+}

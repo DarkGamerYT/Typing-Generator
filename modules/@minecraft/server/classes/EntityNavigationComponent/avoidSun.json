@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Whether or not the pathfinder should avoid tiles that are exposed to the sun when creating paths."
+        }
+    ]
+}

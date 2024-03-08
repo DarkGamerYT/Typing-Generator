@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Tells the pathfinder whether or not it will be pulled down by gravity while in water."
+        }
+    ]
+}

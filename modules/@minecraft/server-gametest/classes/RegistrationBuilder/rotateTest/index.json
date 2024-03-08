@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "If true, runs the test in all four rotations when run via /gametest runset."
+        }
+    ]
+}

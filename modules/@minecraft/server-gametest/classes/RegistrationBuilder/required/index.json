@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Whether this test is required to pass as part of its broader set of tests."
+        },
+        {
+            "name": "param",
+            "param": "isRequired",
+            "value": "If set to true, the test must pass in order for the entire run of tests to pass."
+        },
+        {
+            "name": "returns",
+            "value": "RegistrationBuilder object where additional configuration methods can be called."
+        }
+    ]
+}

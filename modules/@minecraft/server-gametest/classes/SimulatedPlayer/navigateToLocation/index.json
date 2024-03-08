@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Orders the simulated player to move to a specific location using navigation.\nIf a move or navigation is already playing, this will override the last move/walk.\nNote that if the simulated player gets stuck, that simulated player will stop.\nThe player must be touching the ground in order to start navigation."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gets a list of positions and number of riders for each position for entities riding this entity."
+        }
+    ]
+}

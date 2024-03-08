@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "A string-list of entity types that this entity can support as riders."
+        }
+    ]
+}

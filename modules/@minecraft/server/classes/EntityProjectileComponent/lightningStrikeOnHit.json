@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "If true and the weather is thunder and the entity has line  of sight to the sky, the entity will be struck by lightning when hit. E.g. A thrown Trident with the Channeling enchantment."
+        }
+    ]
+}

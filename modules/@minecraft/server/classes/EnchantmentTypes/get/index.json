@@ -12,6 +12,11 @@
         {
             "name": "returns",
             "value": "If available, returns an EnchantmentType object that represents the specified enchantment."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
         }
     ]
 }

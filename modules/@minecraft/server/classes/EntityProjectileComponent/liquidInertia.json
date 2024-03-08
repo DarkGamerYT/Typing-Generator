@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The fraction of the projectile's speed maintained every tick while traveling through a liquid."
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "beta": true,
+    "description": "Defines what blocks this entity can breathe in and gives them the ability to suffocate."
+}

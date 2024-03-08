@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Shoots the projectile with a given velocity.\nThe projectile will be shot from its current location."
+        },
+        {
+            "name": "param",
+            "param": "velocity",
+            "value": "The velocity to fire the projectile.\nThis controls both the speed and direction which which the projectile will be shot."
+        },
+        {
+            "name": "param",
+            "param": "options",
+            "value": "Optional configuration for the shoot."
+        },
+        {
+            "name": "throws",
+            "value": "Throws if the component or entity no longer exist."
+        }
+    ]
+}

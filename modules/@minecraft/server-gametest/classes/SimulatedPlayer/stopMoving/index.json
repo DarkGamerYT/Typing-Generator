@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Stops moving/walking/following if the simulated player is moving."
+        }
+    ]
+}

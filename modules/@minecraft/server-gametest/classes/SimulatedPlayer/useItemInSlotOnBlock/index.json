@@ -1,0 +1,28 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Causes the simulated player to use an item in their inventory on a block.\nThe block at the specified block location must be solid.\nReturns true if the item was used."
+        },
+        {
+            "name": "param",
+            "param": "slot",
+            "value": ""
+        },
+        {
+            "name": "param",
+            "param": "blockLocation",
+            "value": "Location to use the item upon."
+        },
+        {
+            "name": "param",
+            "param": "direction",
+            "value": "Direction to place the specified item within."
+        },
+        {
+            "name": "param",
+            "param": "faceLocation",
+            "value": "Location relative to the bottom north-west corner of the block where the item is placed."
+        }
+    ]
+}

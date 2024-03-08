@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Adds an entity to this entity as a rider."
+        },
+        {
+            "name": "param",
+            "param": "rider",
+            "value": "Entity that will become the rider of this entity."
+        },
+        {
+            "name": "returns",
+            "value": "True if the rider entity was successfully added."
+        }
+    ]
+}

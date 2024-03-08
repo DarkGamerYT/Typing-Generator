@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Causes the simulated player to interact with a block.\nThe block at the specified block location must be solid.\nReturns true if the interaction was performed."
+        },
+        {
+            "name": "param",
+            "param": "blockLocation",
+            "value": "Location of the block to interact with."
+        },
+        {
+            "name": "param",
+            "param": "direction",
+            "value": "Direction to place the specified item within."
+        }
+    ]
+}

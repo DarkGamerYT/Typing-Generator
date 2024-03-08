@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the maximum number of times a test will try to rerun if it fails."
+        },
+        {
+            "name": "returns",
+            "value": "RegistrationBuilder object where additional configuration methods can be called."
+        }
+    ]
+}

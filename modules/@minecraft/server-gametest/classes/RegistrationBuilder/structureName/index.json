@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the name of the structure for a test to use. 'xyz:bar' will load `/structures/xyz/bar.mcstructure` from the behavior pack stack."
+        },
+        {
+            "name": "returns",
+            "value": "RegistrationBuilder object where additional configuration methods can be called."
+        }
+    ]
+}

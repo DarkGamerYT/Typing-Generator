@@ -1,0 +1,9 @@
+{
+    "beta": true,
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Block permutation that was hit by the attack."
+        }
+    ]
+}

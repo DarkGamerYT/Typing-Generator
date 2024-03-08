@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Causes the simulated player to jump."
+        },
+        {
+            "name": "returns",
+            "value": "True if a jump was performed."
+        }
+    ]
+}

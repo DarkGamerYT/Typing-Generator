@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Causes the test to fail if this step in the GameTest sequence is reached."
+        },
+        {
+            "name": "param",
+            "param": "errorMessage",
+            "value": "Error message summarizing the failure condition."
+        }
+    ]
+}

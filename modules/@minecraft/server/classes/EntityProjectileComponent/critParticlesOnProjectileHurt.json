@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "If true, the projectile will spawn crit particles when hit  by a player. E.g. Player attacking a Shulker bullet."
+        }
+    ]
+}

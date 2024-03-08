@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Determines whether interactions are not supported if the entity is crouching."
+        }
+    ]
+}

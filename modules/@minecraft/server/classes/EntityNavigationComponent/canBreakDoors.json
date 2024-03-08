@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Tells the pathfinder that it can path through a closed door and break it."
+        }
+    ]
+}

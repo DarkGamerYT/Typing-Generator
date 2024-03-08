@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Causes the simulated player to start flying as though they were flying in creative mode.\nFor flying with Elytra, see function glide."
+        }
+    ]
+}

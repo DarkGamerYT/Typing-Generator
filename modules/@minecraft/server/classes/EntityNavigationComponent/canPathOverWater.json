@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Tells the pathfinder whether or not it can travel on the surface of the water."
+        }
+    ]
+}

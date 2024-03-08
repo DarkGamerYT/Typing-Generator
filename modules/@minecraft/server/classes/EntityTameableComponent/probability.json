@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The chance of taming the entity with each item use between 0.0 and 1.0, where 1.0 is 100%"
+        }
+    ]
+}

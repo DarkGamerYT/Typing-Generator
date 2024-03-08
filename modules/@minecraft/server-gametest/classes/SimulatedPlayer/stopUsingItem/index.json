@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Stops using the currently active item."
+        },
+        {
+            "name": "returns",
+            "value": "Returns the item that was in use, or undefined if no item was in use."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Zero-based index of the seat that can used to control this entity."
+        }
+    ]
+}

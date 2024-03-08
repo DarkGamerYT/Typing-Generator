@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Tells the pathfinder whether or not it can path anywhere through water and plays swimming animation along that path."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Registers a new GameTest function that is designed for asynchronous execution.\nThis GameTest will become available in Minecraft via /gametest run [testClassName]:[testName]."
+        },
+        {
+            "name": "param",
+            "param": "testClassName",
+            "value": "Name of the class of tests this test should be a part of."
+        },
+        {
+            "name": "param",
+            "param": "testName",
+            "value": "Name of this specific test."
+        },
+        {
+            "name": "param",
+            "param": "testFunction",
+            "value": "Implementation of the test function."
+        },
+        {
+            "name": "returns",
+            "value": "Returns a {@link RegistrationBuilder} object where additional options for this test can be specified via builder methods."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
+        }
+    ]
+}

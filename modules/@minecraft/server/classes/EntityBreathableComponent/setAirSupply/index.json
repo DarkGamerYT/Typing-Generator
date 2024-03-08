@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the current air supply of the entity."
+        },
+        {
+            "name": "param",
+            "param": "value",
+            "value": "New air supply for the entity."
+        }
+    ]
+}

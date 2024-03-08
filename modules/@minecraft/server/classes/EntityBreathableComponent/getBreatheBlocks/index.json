@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "List of blocks this entity can breathe in, in addition to the separate properties for classes of blocks."
+        }
+    ]
+}

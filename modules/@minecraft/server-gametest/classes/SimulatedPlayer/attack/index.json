@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Causes the simulated player to make an attack 'swipe'.\nReturns true if the attack was performed - for example, the player was not on cooldown and had a valid target.\nTarget selection is performed by raycasting from the player's head."
+        }
+    ]
+}

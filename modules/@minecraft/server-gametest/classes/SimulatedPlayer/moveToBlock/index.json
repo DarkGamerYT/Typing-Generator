@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Orders the simulated player to move to the given block location in a straight line.\nIf a move or navigation is already playing, this will override the last move/navigation."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Ejects the specified rider of this entity."
+        },
+        {
+            "name": "param",
+            "param": "rider",
+            "value": "Entity that should be ejected from this entity."
+        }
+    ]
+}

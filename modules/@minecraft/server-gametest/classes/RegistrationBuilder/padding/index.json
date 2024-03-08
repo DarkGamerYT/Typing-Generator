@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Size around the GameTest, in blocks, that should be reserved for the test when running multiple tests together."
+        },
+        {
+            "name": "param",
+            "param": "paddingBlocks",
+            "value": "Size, in blocks, around the GameTest where additional GameTests should not be created."
+        },
+        {
+            "name": "returns",
+            "value": "RegistrationBuilder object where additional configuration methods can be called."
+        }
+    ]
+}

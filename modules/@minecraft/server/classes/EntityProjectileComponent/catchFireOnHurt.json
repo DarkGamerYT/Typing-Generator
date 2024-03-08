@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "If true, the entity will be set on fire when hurt.\nThe default burn duration is 5 seconds. This duration can be modified via the onFireTime property.\nThe entity will not catch fire if immune or if the entity is wet."
+        }
+    ]
+}

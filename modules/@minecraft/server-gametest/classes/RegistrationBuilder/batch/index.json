@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets the batch for the test to run in."
+        },
+        {
+            "name": "param",
+            "param": "batchName",
+            "value": "Name of the batch for the test."
+        },
+        {
+            "name": "returns",
+            "value": "RegistrationBuilder object where additional configuration methods can be called."
+        }
+    ]
+}

@@ -12,6 +12,11 @@
         {
             "name": "returns",
             "value": "BlockType object, or undefined if the block type is not available within this world."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
         }
     ]
 }

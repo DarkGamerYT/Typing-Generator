@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Performs a raycast from the player's head and interacts with the first intersected block or entity.\nReturns true if the interaction was successful.\nMaximum range is 6 blocks."
+        }
+    ]
+}

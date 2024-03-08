@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Rotates the simulated player's head/body to look at the given entity."
+        }
+    ]
+}

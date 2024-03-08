@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "If true, the projectile will be destroyed when it takes damage. E.g. Player attacking a Shulker bullet."
+        }
+    ]
+}

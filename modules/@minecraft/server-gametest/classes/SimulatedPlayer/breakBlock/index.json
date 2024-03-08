@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Destroys the block at blockLocation, respecting the rules of the server player's game mode.\nThe block will be hit until broken, an item is used or stopBreakingBlock is called.\nReturns true if the block at blockLocation is solid."
+        },
+        {
+            "name": "param",
+            "param": "blockLocation",
+            "value": "Location of the block to interact with."
+        },
+        {
+            "name": "param",
+            "param": "direction",
+            "value": "Direction to place the specified item within."
+        }
+    ]
+}

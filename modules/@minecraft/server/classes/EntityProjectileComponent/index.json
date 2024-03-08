@@ -1,0 +1,4 @@
+{
+    "beta": true,
+    "description": "The projectile component controls the properties of a projectile entity and allows it to be shot in a given direction.\nThis component is present when the entity has the `minecraft:projectile` component."
+}

@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Causes the simulated player to interact with a mob.\nReturns true if the interaction was performed."
+        },
+        {
+            "name": "param",
+            "param": "entity",
+            "value": "Entity to interact with."
+        }
+    ]
+}

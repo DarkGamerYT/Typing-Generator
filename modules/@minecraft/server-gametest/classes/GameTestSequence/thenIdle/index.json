@@ -1,0 +1,16 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Idles the GameTest sequence for the specified delayTicks."
+        },
+        {
+            "name": "delayTicks",
+            "value": "Number of ticks to delay for this step in the GameTest sequence."
+        },
+        {
+            "name": "returns",
+            "value": "Returns a GameTestSequence object where additional .thenXyz method steps can be added."
+        }
+    ]
+}

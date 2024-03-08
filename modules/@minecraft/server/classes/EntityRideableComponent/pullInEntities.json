@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "If true, this entity will pull in entities that are in the correct `family_types` into any available seat."
+        }
+    ]
+}

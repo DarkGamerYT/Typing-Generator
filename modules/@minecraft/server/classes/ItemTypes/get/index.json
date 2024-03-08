@@ -3,6 +3,11 @@
         {
             "name": "remarks",
             "value": "Returns a specific item type, if available within Minecraft."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
         }
     ]
 }

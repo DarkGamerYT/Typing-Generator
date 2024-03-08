@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Indicates that the tagged test should be a part of an internal (debug) test suite."
+        }
+    ]
+}

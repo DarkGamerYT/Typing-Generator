@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Use navigation to follow the route provided via the locations parameter.\nIf a move or navigation is already playing, this will override the last move/navigation."
+        }
+    ]
+}

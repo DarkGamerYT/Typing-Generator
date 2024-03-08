@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The gravity applied to the projectile.\nWhen the entity is not on the ground, subtracts this amount from the projectile’s change in vertical position every tick.\nThe higher the value, the faster the projectile falls.\nIf negative, the entity will rise instead of fall."
+        }
+    ]
+}

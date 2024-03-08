@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Will use navigation to follow the selected entity to within a one block radius.\nIf a move or navigation is already playing, this will override the last move/navigation."
+        }
+    ]
+}

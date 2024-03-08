@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Duration in seconds that the entity hit will be on fire for when catchFireOnHurt is set to true."
+        }
+    ]
+}

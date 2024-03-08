@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Set of text that should be displayed when a player is looking to ride on this entity (commonly with touch-screen controls)."
+        }
+    ]
+}

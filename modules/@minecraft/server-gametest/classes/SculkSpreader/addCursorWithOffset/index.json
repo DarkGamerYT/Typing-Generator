@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Adds a cursor - which is a notional waypoint that the sculk will spread in the direction of."
+        }
+    ]
+}

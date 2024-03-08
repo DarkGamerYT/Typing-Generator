@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The owner of the projectile.\nThis is used to determine what the projectile can collide with and damage. It also determines which entity is assigned as the attacker."
+        }
+    ]
+}

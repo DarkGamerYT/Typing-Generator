@@ -1,0 +1,23 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Sets a particular item for the simulated player."
+        },
+        {
+            "name": "param",
+            "param": "itemStack",
+            "value": "Item to set."
+        },
+        {
+            "name": "param",
+            "param": "slot",
+            "value": "Slot to place the given item in."
+        },
+        {
+            "name": "param",
+            "param": "selectedSlot",
+            "value": "Whether to set the selected slot once set."
+        }
+    ]
+}

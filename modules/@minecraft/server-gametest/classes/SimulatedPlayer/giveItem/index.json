@@ -1,0 +1,18 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Gives the simulated player a particular item stack."
+        },
+        {
+            "name": "param",
+            "param": "itemStack",
+            "value": "Item to give."
+        },
+        {
+            "name": "param",
+            "param": "selectedSlot",
+            "value": "Whether to set the selected slot once given."
+        }
+    ]
+}

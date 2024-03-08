@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "If true, the projectile will bounce off mobs when no damage is taken. E.g. A spawning wither."
+        }
+    ]
+}

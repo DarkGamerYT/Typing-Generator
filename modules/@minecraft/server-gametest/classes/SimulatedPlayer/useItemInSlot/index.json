@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Causes the simulated player to hold and use an item in their inventory."
+        },
+        {
+            "name": "param",
+            "param": "slot",
+            "value": "Index of the inventory slot."
+        }
+    ]
+}

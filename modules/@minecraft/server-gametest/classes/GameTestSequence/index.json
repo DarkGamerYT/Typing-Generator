@@ -1,0 +1,3 @@
+{
+    "description": "Executes a set of steps defined via chained `.thenXyz` methods, sequentially.\nThis facilitates a 'script' of GameTest setup methods and assertions over time."
+}

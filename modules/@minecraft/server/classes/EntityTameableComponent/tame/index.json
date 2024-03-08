@@ -1,0 +1,12 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Tames this entity."
+        },
+        {
+            "name": "returns",
+            "value": "Returns true if the entity was tamed."
+        }
+    ]
+}
