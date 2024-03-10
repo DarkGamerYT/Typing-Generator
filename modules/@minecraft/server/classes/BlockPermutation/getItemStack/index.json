@@ -9,6 +9,11 @@
             "name": "param",
             "param": "amount",
             "value": "Number of instances of this block to place in the prototype itemstack."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
         }
     ]
 }

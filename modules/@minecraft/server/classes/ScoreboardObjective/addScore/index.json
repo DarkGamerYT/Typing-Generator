@@ -8,6 +8,11 @@
             "name": "param",
             "param": "participant",
             "value": "Participant to apply the scoreboard value addition to."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
         }
     ]
 }

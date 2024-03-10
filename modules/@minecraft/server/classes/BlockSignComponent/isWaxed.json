@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Whether or not players can edit the sign.\nThis happens if a sign has had a honeycomb used on it or `setWaxed` was called on the sign."
+        }
+    ]
+}

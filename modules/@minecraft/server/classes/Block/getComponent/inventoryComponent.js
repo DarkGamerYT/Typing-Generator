@@ -1,7 +1,8 @@
-import { world, ItemStack } from "@minecraft/server";
+import { world, ItemStack, BlockInventoryComponent } from "@minecraft/server";
+const overworld = world.getDimension("minecraft:overworld");
 
 // Get the block
-const block = world.getDimension("overworld").getBlock({ x: 1, y: 2, z: 3 });
+const block = overworld.getBlock({ x: 1, y: 2, z: 3 });
+const container = block.getComponent(BlockInventoryComponent.componentId).container;
 
-const inventory = block.getComponent("inventory").container;
-inventory.addItem(new ItemStack("minecraft:dirt"));
+container.addItem(new ItemStack("minecraft:dirt"));

@@ -5,7 +5,7 @@
             "value": "Clears all inventory items in the container."
         },
         {
-            "name": "returns",
+            "name": "throws",
             "value": "Throws if the container is invalid."
         }
     ]

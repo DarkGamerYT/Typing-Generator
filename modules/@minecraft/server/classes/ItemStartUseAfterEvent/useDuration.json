@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "Returns the time, in ticks, for the remaining duration left before the charge completes its cycle."
+        }
+    ]
+}

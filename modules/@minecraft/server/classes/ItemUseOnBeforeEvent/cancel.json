@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "If set to true, this will cancel the item use behavior."
+        }
+    ]
+}

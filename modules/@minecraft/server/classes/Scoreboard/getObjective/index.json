@@ -8,6 +8,11 @@
             "name": "param",
             "param": "objectiveId",
             "value": "Identifier of the objective."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
         }
     ]
 }

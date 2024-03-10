@@ -12,6 +12,11 @@
         {
             "name": "returns",
             "value": "Returns the current level of the Player."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
         }
     ]
 }

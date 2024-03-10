@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "A range of numbers that is used to calculate the damage chance for an item.\nThe damage chance will fall within this range."
+        }
+    ]
+}

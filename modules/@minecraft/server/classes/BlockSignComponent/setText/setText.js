@@ -1,4 +1,8 @@
-import { SignSide } from "@minecraft/server";
+import { world, SignSide, BlockSignComponent } from "@minecraft/server";
+const overworld = world.getDimension("minecraft:overworld");
 
-const sign = block.getComponent("sign");
-sign.setText("Hello World", SignSide.Front);
+// Get the block
+const block = overworld.getBlock({ x: 1, y: 2, z: 3 });
+const signComponent = block.getComponent(BlockSignComponent.componentId);
+
+signComponent.setText("Hello World", SignSide.Front);

@@ -1,5 +1,5 @@
-import { ItemStack } from "@minecraft/server";
+import { ItemStack, ItemDurabilityComponent } from "@minecraft/server";
 
 const itemStack = new ItemStack("minecraft:iron_sword");
-const durability = itemStack.getComponent("minecraft:durability");
+const durability = itemStack.getComponent(ItemDurabilityComponent.componentId);
 console.warn(`Damage: ${durability.damage}`);

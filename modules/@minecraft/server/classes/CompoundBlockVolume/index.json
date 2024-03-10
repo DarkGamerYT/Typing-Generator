@@ -1,0 +1,4 @@
+{
+    "beta": true,
+    "description": "The Compound Block Volume is a collection of individual block volume definitions which, as a collection, define a larger volume of (sometimes non-contiguous) irregular shapes."
+}

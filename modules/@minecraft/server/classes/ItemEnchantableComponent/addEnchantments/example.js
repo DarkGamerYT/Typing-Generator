@@ -1,10 +1,10 @@
-import { world, ItemStack, EquipmentSlot } from "@minecraft/server";
+import { world, ItemStack, EquipmentSlot, EntityEquippableComponent, ItemEnchantableComponent } from "@minecraft/server";
 world.afterEvents.itemUse.subscribe((data) => {
     if (data.itemStack.typeId !== "minecraft:stick") return;
-    const equippable = data.source.getComponent("minecraft:equippable");
+    const equippable = data.source.getComponent(EntityEquippableComponent.componentId);
 
     const itemStack = new ItemStack("minecraft:iron_sword", 1);
-    const enchantable = itemStack.getComponent("minecraft:enchantable");
+    const enchantable = itemStack.getComponent(ItemEnchantableComponent.componentId);
     
     // Adds fire aspect and unbreaking to the iron sword
     enchantable.addEnchantment([

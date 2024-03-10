@@ -13,6 +13,11 @@
             "name": "param",
             "param": "score",
             "value": "New value of the score."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
         }
     ]
 }

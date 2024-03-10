@@ -8,6 +8,11 @@
             "name": "param",
             "param": "participant",
             "value": "Participant to remove from being tracked with this objective."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
         }
     ]
 }

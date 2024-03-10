@@ -1,0 +1,3 @@
+{
+    "description": "Contains information related to an item being used on a block.\nThis event fires when a player presses the the Use Item / Place Block button to successfully use an item or place a block. \nFires for the first block that is interacted with when performing a build action.\nNote: This event cannot be used with Hoe or Axe items."
+}

@@ -14,6 +14,11 @@
             "name": "param",
             "param": "musicOptions",
             "value": "Additional options for the music track."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
         }
     ]
 }

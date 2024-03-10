@@ -1,0 +1,8 @@
+{
+    "comments": [
+        {
+            "name": "remarks",
+            "value": "The impacted item stack that is starting to be used.\nCan be undefined in some gameplay scenarios like pushing a button with an empty hand."
+        }
+    ]
+}

@@ -8,6 +8,11 @@
             "name": "param",
             "param": "participant",
             "value": "Identifier of the participant to retrieve a score for."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
         }
     ]
 }

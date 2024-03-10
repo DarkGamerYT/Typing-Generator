@@ -1,0 +1,4 @@
+{
+    "beta": true,
+    "description": "Bounding Box Utils is a utility class that provides a number of useful functions for the creation and utility of {@link BoundingBox} objects"
+}

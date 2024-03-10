@@ -8,6 +8,11 @@
             "name": "param",
             "param": "soundOptions",
             "value": "Additional optional options for the sound."
+        },
+        {
+            "name": "example",
+            "language": "javascript",
+            "file": "example.js"
         }
     ]
 }
